@@ -1,2 +1,2 @@
-id,character,origin_dialogue,translated_dialogue
-MIZE015TO,System,Use your Thought Bubble to map your LEVITATION power to a button.,
+identifier,file,character,source,translation
+MIZE015TO,MI_StringTablePC.csv,System,Use your Thought Bubble to map your LEVITATION power to a button.,
