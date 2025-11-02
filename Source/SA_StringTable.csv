@@ -1,172 +1,172 @@
-identifier,labels,context,source,translation
-SACO001RA,SACO,Raz,"Oh, yeah. Come to poppa!",
-SACO002SA,SACO,Sasha,"Raz, what have you done? This is not control! This is chaos!",
-SACO003SA,SACO,Sasha,I'll try to fix it. You stay here and keep their numbers under control.,
-SAFB004SA,SAFB,Sasha,This is a censor.,
-SAIN001SA,SAIN,Sasha,Welcome to my mind.,
-SAIN002RA,SAIN,Raz,Huh. It's so empty.,
-SAIN003RA,SAIN,Raz,"Uh, I mean--",
-SAIN004SA,SAIN,Sasha,"There's more here than meets the eye, but I've learned to keep it under strict control.",
-SAIN005SA,SAIN,Sasha,And that's what I'm going to teach you: control.,
-SAIN006SA,SAIN,Sasha,"Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.",
-SAIN007RA,SAIN,Raz,As therapy?,
-SAIN008SA,SAIN,Sasha,"No, as firepower!",
-SAIN009SA,SAIN,Sasha,Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.,
-SAIN010SA,SAIN,Sasha,"Ahhh, oh, so tacky... I can't... look... directly at it!",
-SAIN011SA,SAIN,Sasha,"But I control those feelings, focus them, concentrate, and",
-SAIN012SA,SAIN,Sasha,release!,
-SAIN013SA,SAIN,Sasha,And the world is a better place.,
-SAIN014SA,SAIN,Sasha,Your turn.,
-SAIN015RA,SAIN,Raz,Okay...,
-SAIN016RA,SAIN,Raz,Hggfgg!  Gahhh!,
-SAIN017SA,SAIN,Sasha,Excellent. A victory for good taste.,
-SAIN018SA,SAIN,Sasha,"Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.",
-SAIN019SA,SAIN,Sasha,Eh.,
-SAIN020SA,SAIN,Sasha,Yecch.,
-SAIN021SA,SAIN,Sasha,Bleh.,
-SAIN022SA,SAIN,Sasha,But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.,
-SAMC001SA,SAMC,Sasha,"Young man, I hope you've learned a lesson here today.",
-SAMC002RA,SAMC,Raz,Yes I have.,
-SAMC003RA,SAMC,Raz,That shooting things is fun and useful.,
-SAMC004SA,SAMC,Sasha,"No, that once you lose control of your own mind, it's very hard to get it back!",
-SAMC005RA,SAMC,Raz,Yes. One's thoughts must be 100% controlled at all times!,
-SAMC006SA,SAMC,Sasha,"Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.",
-SAMC007RA,SAMC,Raz,"Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?",
-SAMC008SA,SAMC,Sasha,"Well, there would be a buildup of censor energy within, that would... uh eventually",
-SAMC009SA,SAMC,Sasha,"Run, Razputin. Very fast.",
-SAMC010SA,SAMC,Sasha,You are my own creation. I command you to stop!,
-SAMC012SA,SAMC,Sasha,Ahhhhhhh!,
-SAMC013SA,SAMC,Sasha,"Razputin, it's time to earn your merit badge!",
-SASE001SA,SASE,Sasha,Again.,
-SASE002SA,SASE,Sasha,Come now. Focus.,
-SASE003SA,SASE,Sasha,Shoot!,
-SASE004SA,SASE,Sasha,Repeat.,
-SASE005SA,SASE,Sasha,What are you waiting for?,
-SASE006SA,SASE,Sasha,Let's get moving.,
-SASE007SA,SASE,Sasha,Excellent.,
-SASE008SA,SASE,Sasha,Control.,
-SASE009SA,SASE,Sasha,Focus.,
-SASE010SA,SASE,Sasha,Concentrate.,
-SASE011SA,SASE,Sasha,Release.,
-SASE012SA,SASE,Sasha,Try it again.,
-SASS001SA,SASS,Sasha,Ahhhhh!,
-SASS002SA,SASS,Sasha,Ach!,
-SASS003SA,SASS,Sasha,Ai-ai-ai-ai-ai!,
-SASS004SA,SASS,Sasha,Razputin!,
-SASS005SA,SASS,Sasha,Oooh-ooh-oooh...,
-SASS006SA,SASS,Sasha,Peel me off and put me down!,
-SASS007SA,SASS,Sasha,Enough!,
-SASS008SA,SASS,Sasha,Oof!,
-SASS009SA,SASS,Sasha,Uggg!,
-SASS010SA,SASS,Sasha,Ow!,
-SASS011SA,SASS,Sasha,Gahhhh!,
-SAAB001SA,SAAB,Sasha,"No, Raz, shoot them in order. Let's try this again.",
-SAAC002RA,SAAC,Raz,This is controlled by that dial over there.,
-SAAD003RA,SAAD,Raz,This is going to take forever. I wonder if I can speed it up somehow.,
-SAAD004RA,SAAD,Raz,I wonder what would happen if I turned that dial up.,
-SACD001RA,SACD,Raz,"So, is this where I get a speech and learn another lesson?",
-SACD002SA,SACD,Sasha,No. Here's your merit badge. Let us never speak of this again.,
-SAFB001SA,SAFB,Sasha,Now then...,
-SAFB002SA,SAFB,Sasha,Is this what you saw in your vision?,
-SAFB005SA,SAFB,Sasha,An integral part of any sane person's mind.,
-SAFB006SA,SAFB,Sasha,"The censors roam through your psyche, looking for thoughts that don't belong.",
-SAFB007SA,SAFB,Sasha,"Hallucinations, manias, waking dreams--the censors hunt them down and censor them out.",
-SAFB008RA,SAFB,Raz,Why do they come after me? I'm not a mania!,
-SAFB009SA,SAFB,Sasha,"Yes, but you are a foreign entity in my mind. You technically don't belong here.",
-SAFB901SA,SAFB,Sasha,"Yes. Well, the Brain Tumbler could be malfunctioning. Or you could be insane.",
-SAFB902SA,SAFB,Sasha,We'll test for that later. For now...,
-SAFB010RA,SAFB,Raz,"So, what do I do?",
-SAFB011SA,SAFB,Sasha,Blast it!,
-SAFB012SA,SAFB,Sasha,That's the spirit.,
-SAFB013RA,SAFB,Raz,I killed it.,
-SAFB014SA,SAFB,Sasha,It was just a thought I was having. And it's not dead. It has just returned to its basic form--raw psychic energy. Go absorb it. It's good for your mental health.,
-SAFB015SA,SAFB,Sasha,"Now I'll leave the machine on for you, so you can practice. You have to blast 1000 censors to earn your Marksmanship Merit Badge.",
-SAFB016SA,SAFB,Sasha,"Come back every day for practice, and you should have enough in as little as three weeks!",
-SAFB017RA,SAFB,Raz,Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.,
-SAFB018SA,SAFB,Sasha,"Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.",
-SAFB019RA,SAFB,Raz,Oh man...,
-SAFD001RA,SAFD,Raz,I need to stop whatever's shooting out these censors!,
-SAFE001RA,SAFE,Raz,Those little censors are re-energizing the big one somehow.,
-SAFF001RA,SAFF,Raz,This should stop any more censors from coming out of here.,
-SAFG001SA,SAFG,Sasha,Destroy them all!,
-SAFH002SA,SAFH,Sasha,"Well done, Raz. Keep shooting!",
-SAFH003SA,SAFH,Sasha,Good. Again!,
-SAFI004SA,SAFI,Sasha,Razputin! You must blast the emergency shut-down valves!,
-SAFI005SA,SAFI,Sasha,It's the only way to close off the leak!,
-SAFI006SA,SAFI,Sasha,Shut down all the valves on this face to get it under control!,
-SAFI007SA,SAFI,Sasha,"Hurry, Razputin!",
-SAAA000SA,SAAA,Sasha,"Yes, yes. We all know you can punch things.",
-SAAA001SA,SAAA,Sasha,But you're supposed to be learning how to use your PSI Blast now.,
-SAAA002SA,SAAA,Sasha,Try it without punching.,
-SAAF000RA,SAAF,Raz,That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.,
-SAAG000SA,SAAG,Sasha,"Enough horseplay, Razputin! Destroy him!",
-SAAG001SA,SAAG,Sasha,The small censors are feeding into his strength. You must stop them!,
-SAAG002SA,SAAG,Sasha,"Destroy the valves that are emitting the small censors, Razputin!",
-SAAG003SA,SAAG,Sasha,Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!,
-SAAG004SA,SAAG,Sasha,"Don't forget to use your mental focus to lock on the valves as a target, and then blast them!",
-SAZE004TO,SAZE,System,Use /LeftFlipper/ to lock mental focus.,
-SAAG006SA,SAAG,Sasha,"Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ",
-SAAG007SA,SAAG,Sasha,Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!,
-SAAG008SA,SAAG,Sasha,"Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!",
-SAAG009SA,SAAG,Sasha,"When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!",
-SAAG010SA,SAAG,Sasha,Watch out for those tumbling boils he's throwing at you. They're full of censors!,
-SAAG011SA,SAAG,Sasha,"You can kill many small censors in one blow, if you jump up in the air above them and then smash the ground with your psychic fist.",
-SAZE005TO,SAZE,System,Press /XButton/ while airborne to execute a Palm Bomb.,
-SAAG013SA,SAAG,Sasha,"Oh, you. What a pleasant surprise.",
-SAAG014SA,SAAG,Sasha,"Enough, Razputin! The beast must die, now!",
-SAAG015SA,SAAG,Sasha,"If you are mentally focused, and executing a sideways tumble, it will be very hard for him to stamp you.",
-SAAG016SA,SAAG,Sasha,"Razputin, if you could finish this off soon, I might get out of it with only a mild concussion.",
-SAAG017SA,SAAG,Sasha,What? Who's there? I think I've lost my vision!,
-SAAG018SA,SAAG,Sasha,"Why no, Aunt Bernie, of course I didn't get your phone calls or else I would have responded right away. ",
-SAAG019SA,SAAG,Sasha,"My name is Yan Yanssen, I live in Wisconsin, I work in the lumber yard there...",
-SAAG020SA,SAAG,Sasha,La di da... do do da dum...,
-SAAG021SA,SAAG,Sasha,"Wow. Okay, that last hit brought me back. Where was I?",
-SAAH000RA,SAAH,Raz,"Um, well, it sure seemed a lot bigger in my head.",
-SAAH001SA,SAAH,Sasha,"Ah, problems often seem larger in our heads than they really are. That's an important lesson to learn.",
-SAAH002RA,SAAH,Raz,But--,
-SAAH003RA,SAAH,Raz,"Yes, but I was attacked in my own head.",
-SAAH004SA,SAAH,Sasha,Um... Well...,
-SAAH005SA,SAAH,Sasha,The machine is having a little trouble. I'm looking into it. Meanwhile...,
-SAAH006SA,SAAH,Sasha,"As you absorb this energy, your mental health increases. ",
-SAAH007SA,SAAH,Sasha,"But as you PSI Blast, you expend your will to do damage. ",
-SAAH008SA,SAAH,Sasha,"So be on the look out for these small, dense clusters of raw psychic aggression.",
-SAAH009SA,SAAH,Sasha,Absorb these as well to make sure you always have enough firepower.,
-SAAH010RA,SAAH,Raz,Hm. They're coming out faster but still not fast enough.,
-SAAH011RA,SAAH,Raz,Hm. Still not fast enough!,
-SAAH012RA,SAAH,Raz,Uh oh.,
-SAAI000SA,SAAI,Sasha,"Good shooting, Raz, but you are making it harder than it needs to be. ",
-SAAI001SA,SAAI,Sasha,You need to practice locking your mental focus.,
-SAAI002SA,SAAI,Sasha,It makes targeting and evasive maneuvers much easier.,
-SAAI003SA,SAAI,Sasha,"Let's try again, this time lock your mental focus.",
-SAAJ000SA,SAAJ,Sasha,"Razputin, see those valves? That is where the censors are leaking out.",
-SAAJ001SA,SAAJ,Sasha,PSI Blast the valves to shut them down and get this area under control!,
-SAAJ002SA,SAAJ,Sasha,"Good, now the next one. You have to get them all.",
-SAAJ003SA,SAAJ,Sasha,"Good, well you got them all. ",
-SAAJ004SA,SAAJ,Sasha,"Oh, no. You close one leak down and another springs up!",
-SAAJ005SA,SAAJ,Sasha,Well come on. We've got to take care of these too!,
-SAAK000SA,SAAK,Sasha,"Oh, no. What are you doing back in here?",
-SAAK001RA,SAAK,Raz,Practicing.,
-SAAK002SA,SAAK,Sasha,"Oh, would you like to run the course again?",
-SAAK003RA,SAAK,Raz,"Yeah, I--run the course? But all that censor overload stuff... that was an accident. ",
-SAAK004SA,SAAK,Sasha,"Oh, Raz. I knew you were going to overload that switch. I would have done the same thing at your age.",
-SAAK005SA,SAAK,Sasha,It was all arranged to make you an expert fighter. And it worked.,
-SAAK006SA,SAAK,Sasha,"Now, if you'd like to run the course again, just shoot the controller on any given face.",
-SAAK007SA,SAAK,Sasha,"To close that face up and open another, shoot any censor valves you see.",
-SAAK008SA,SAAK,Sasha,Fair enough?,
-SAAK009RA,SAAK,Raz,Even the part where the giant censor had you on the stamp?,
-SAAK010SA,SAAK,Sasha,"Okay, that part got a little out of hand. We won't be seeing him again.",
-SAAK011SA,SAAK,Sasha,Razputin! I'm so glad to see you. What's happened?,
-SAAK012RA,SAAK,Raz,"Coach Oleander is trying to take over the world with a fleet of psychic death tanks, armed with the stolen brains of my fellow campers.",
-SAAK013RA,SAAK,Raz,Where are you?,
-SAAK014SA,SAAK,Sasha,I... I have no idea. I seem to be... asleep... or in a trance...,
-SAAK015RA,SAAK,Raz,Well don't worry about it. Ford and I are on the case.,
-SAAK016SA,SAAK,Sasha,"Okay. I'd love to join you, but I think I need to focus on maintaining some level of brain activity.",
-SAAK017RA,SAAK,Raz,"Ooh, I can help with that! Let me shoot up the place!",
-SAZE000TO,SAZE,System,Move RIGHT /Joystick/ while holding /LeftFlipper/ to switch targets.,
-SAZE001TO,SAZE,System,Press /RightFlipper/ to shoot.,
-SAZE002TO,SAZE,System,Hold /LeftFlipper/ to lock on to a target.,
-SAZE003TO,SAZE,System,"Hold /LeftFlipper/ to lock on, then press /RightFlipper/",
-SAZF000TO,SAZF,System,"When your MENTAL FOCUS is LOCKED, press /AButton/ and move the LEFT /Joystick/ to execute a fast tumble in any direction. Very useful for circling your enemies!",
-SAZF001TO,SAZF,System,DAILY MAXIMUM REACHED for this Censor output setting. Please increase Censor output setting if more Censors are desired.,
-SAAM000SA,SAAM,Sasha,"Enough horseplay, Razputin!",
-SAAK018SA,SAAK,Sasha,"Razputin, instead of that why don't you help me free Ms. Zanotto?",
+"Identifier","Context","Source string","Translation"
+"SACO001RA","Raz","Oh, yeah. Come to poppa!",""
+"SACO002SA","Sasha","Raz, what have you done? This is not control! This is chaos!",""
+"SACO003SA","Sasha","I'll try to fix it. You stay here and keep their numbers under control.",""
+"SAFB004SA","Sasha","This is a censor.",""
+"SAIN001SA","Sasha","Welcome to my mind.",""
+"SAIN002RA","Raz","Huh. It's so empty.",""
+"SAIN003RA","Raz","Uh, I mean--",""
+"SAIN004SA","Sasha","There's more here than meets the eye, but I've learned to keep it under strict control.",""
+"SAIN005SA","Sasha","And that's what I'm going to teach you: control.",""
+"SAIN006SA","Sasha","Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.",""
+"SAIN007RA","Raz","As therapy?",""
+"SAIN008SA","Sasha","No, as firepower!",""
+"SAIN009SA","Sasha","Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.",""
+"SAIN010SA","Sasha","Ahhh, oh, so tacky... I can't... look... directly at it!",""
+"SAIN011SA","Sasha","But I control those feelings, focus them, concentrate, and",""
+"SAIN012SA","Sasha","release!",""
+"SAIN013SA","Sasha","And the world is a better place.",""
+"SAIN014SA","Sasha","Your turn.",""
+"SAIN015RA","Raz","Okay...",""
+"SAIN016RA","Raz","Hggfgg!  Gahhh!",""
+"SAIN017SA","Sasha","Excellent. A victory for good taste.",""
+"SAIN018SA","Sasha","Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.",""
+"SAIN019SA","Sasha","Eh.",""
+"SAIN020SA","Sasha","Yecch.",""
+"SAIN021SA","Sasha","Bleh.",""
+"SAIN022SA","Sasha","But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.",""
+"SAMC001SA","Sasha","Young man, I hope you've learned a lesson here today.",""
+"SAMC002RA","Raz","Yes I have.",""
+"SAMC003RA","Raz","That shooting things is fun and useful.",""
+"SAMC004SA","Sasha","No, that once you lose control of your own mind, it's very hard to get it back!",""
+"SAMC005RA","Raz","Yes. One's thoughts must be 100% controlled at all times!",""
+"SAMC006SA","Sasha","Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.",""
+"SAMC007RA","Raz","Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?",""
+"SAMC008SA","Sasha","Well, there would be a buildup of censor energy within, that would... uh eventually",""
+"SAMC009SA","Sasha","Run, Razputin. Very fast.",""
+"SAMC010SA","Sasha","You are my own creation. I command you to stop!",""
+"SAMC012SA","Sasha","Ahhhhhhh!",""
+"SAMC013SA","Sasha","Razputin, it's time to earn your merit badge!",""
+"SASE001SA","Sasha","Again.",""
+"SASE002SA","Sasha","Come now. Focus.",""
+"SASE003SA","Sasha","Shoot!",""
+"SASE004SA","Sasha","Repeat.",""
+"SASE005SA","Sasha","What are you waiting for?",""
+"SASE006SA","Sasha","Let's get moving.",""
+"SASE007SA","Sasha","Excellent.",""
+"SASE008SA","Sasha","Control.",""
+"SASE009SA","Sasha","Focus.",""
+"SASE010SA","Sasha","Concentrate.",""
+"SASE011SA","Sasha","Release.",""
+"SASE012SA","Sasha","Try it again.",""
+"SASS001SA","Sasha","Ahhhhh!",""
+"SASS002SA","Sasha","Ach!",""
+"SASS003SA","Sasha","Ai-ai-ai-ai-ai!",""
+"SASS004SA","Sasha","Razputin!",""
+"SASS005SA","Sasha","Oooh-ooh-oooh...",""
+"SASS006SA","Sasha","Peel me off and put me down!",""
+"SASS007SA","Sasha","Enough!",""
+"SASS008SA","Sasha","Oof!",""
+"SASS009SA","Sasha","Uggg!",""
+"SASS010SA","Sasha","Ow!",""
+"SASS011SA","Sasha","Gahhhh!",""
+"SAAB001SA","Sasha","No, Raz, shoot them in order. Let's try this again.",""
+"SAAC002RA","Raz","This is controlled by that dial over there.",""
+"SAAD003RA","Raz","This is going to take forever. I wonder if I can speed it up somehow.",""
+"SAAD004RA","Raz","I wonder what would happen if I turned that dial up.",""
+"SACD001RA","Raz","So, is this where I get a speech and learn another lesson?",""
+"SACD002SA","Sasha","No. Here's your merit badge. Let us never speak of this again.",""
+"SAFB001SA","Sasha","Now then...",""
+"SAFB002SA","Sasha","Is this what you saw in your vision?",""
+"SAFB005SA","Sasha","An integral part of any sane person's mind.",""
+"SAFB006SA","Sasha","The censors roam through your psyche, looking for thoughts that don't belong.",""
+"SAFB007SA","Sasha","Hallucinations, manias, waking dreams--the censors hunt them down and censor them out.",""
+"SAFB008RA","Raz","Why do they come after me? I'm not a mania!",""
+"SAFB009SA","Sasha","Yes, but you are a foreign entity in my mind. You technically don't belong here.",""
+"SAFB901SA","Sasha","Yes. Well, the Brain Tumbler could be malfunctioning. Or you could be insane.",""
+"SAFB902SA","Sasha","We'll test for that later. For now...",""
+"SAFB010RA","Raz","So, what do I do?",""
+"SAFB011SA","Sasha","Blast it!",""
+"SAFB012SA","Sasha","That's the spirit.",""
+"SAFB013RA","Raz","I killed it.",""
+"SAFB014SA","Sasha","It was just a thought I was having. And it's not dead. It has just returned to its basic form--raw psychic energy. Go absorb it. It's good for your mental health.",""
+"SAFB015SA","Sasha","Now I'll leave the machine on for you, so you can practice. You have to blast 1000 censors to earn your Marksmanship Merit Badge.",""
+"SAFB016SA","Sasha","Come back every day for practice, and you should have enough in as little as three weeks!",""
+"SAFB017RA","Raz","Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.",""
+"SAFB018SA","Sasha","Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.",""
+"SAFB019RA","Raz","Oh man...",""
+"SAFD001RA","Raz","I need to stop whatever's shooting out these censors!",""
+"SAFE001RA","Raz","Those little censors are re-energizing the big one somehow.",""
+"SAFF001RA","Raz","This should stop any more censors from coming out of here.",""
+"SAFG001SA","Sasha","Destroy them all!",""
+"SAFH002SA","Sasha","Well done, Raz. Keep shooting!",""
+"SAFH003SA","Sasha","Good. Again!",""
+"SAFI004SA","Sasha","Razputin! You must blast the emergency shut-down valves!",""
+"SAFI005SA","Sasha","It's the only way to close off the leak!",""
+"SAFI006SA","Sasha","Shut down all the valves on this face to get it under control!",""
+"SAFI007SA","Sasha","Hurry, Razputin!",""
+"SAAA000SA","Sasha","Yes, yes. We all know you can punch things.",""
+"SAAA001SA","Sasha","But you're supposed to be learning how to use your PSI Blast now.",""
+"SAAA002SA","Sasha","Try it without punching.",""
+"SAAF000RA","Raz","That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.",""
+"SAAG000SA","Sasha","Enough horseplay, Razputin! Destroy him!",""
+"SAAG001SA","Sasha","The small censors are feeding into his strength. You must stop them!",""
+"SAAG002SA","Sasha","Destroy the valves that are emitting the small censors, Razputin!",""
+"SAAG003SA","Sasha","Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!",""
+"SAAG004SA","Sasha","Don't forget to use your mental focus to lock on the valves as a target, and then blast them!",""
+"SAZE004TO","System","Use {LeftFlipper} to lock mental focus.",""
+"SAAG006SA","Sasha","Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ",""
+"SAAG007SA","Sasha","Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!",""
+"SAAG008SA","Sasha","Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!",""
+"SAAG009SA","Sasha","When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!",""
+"SAAG010SA","Sasha","Watch out for those tumbling boils he's throwing at you. They're full of censors!",""
+"SAAG011SA","Sasha","You can kill many small censors in one blow, if you jump up in the air above them and then smash the ground with your psychic fist.",""
+"SAZE005TO","System","Press {XButton} while airborne to execute a Palm Bomb.",""
+"SAAG013SA","Sasha","Oh, you. What a pleasant surprise.",""
+"SAAG014SA","Sasha","Enough, Razputin! The beast must die, now!",""
+"SAAG015SA","Sasha","If you are mentally focused, and executing a sideways tumble, it will be very hard for him to stamp you.",""
+"SAAG016SA","Sasha","Razputin, if you could finish this off soon, I might get out of it with only a mild concussion.",""
+"SAAG017SA","Sasha","What? Who's there? I think I've lost my vision!",""
+"SAAG018SA","Sasha","Why no, Aunt Bernie, of course I didn't get your phone calls or else I would have responded right away. ",""
+"SAAG019SA","Sasha","My name is Yan Yanssen, I live in Wisconsin, I work in the lumber yard there...",""
+"SAAG020SA","Sasha","La di da... do do da dum...",""
+"SAAG021SA","Sasha","Wow. Okay, that last hit brought me back. Where was I?",""
+"SAAH000RA","Raz","Um, well, it sure seemed a lot bigger in my head.",""
+"SAAH001SA","Sasha","Ah, problems often seem larger in our heads than they really are. That's an important lesson to learn.",""
+"SAAH002RA","Raz","But--",""
+"SAAH003RA","Raz","Yes, but I was attacked in my own head.",""
+"SAAH004SA","Sasha","Um... Well...",""
+"SAAH005SA","Sasha","The machine is having a little trouble. I'm looking into it. Meanwhile...",""
+"SAAH006SA","Sasha","As you absorb this energy, your mental health increases. ",""
+"SAAH007SA","Sasha","But as you PSI Blast, you expend your will to do damage. ",""
+"SAAH008SA","Sasha","So be on the look out for these small, dense clusters of raw psychic aggression.",""
+"SAAH009SA","Sasha","Absorb these as well to make sure you always have enough firepower.",""
+"SAAH010RA","Raz","Hm. They're coming out faster but still not fast enough.",""
+"SAAH011RA","Raz","Hm. Still not fast enough!",""
+"SAAH012RA","Raz","Uh oh.",""
+"SAAI000SA","Sasha","Good shooting, Raz, but you are making it harder than it needs to be. ",""
+"SAAI001SA","Sasha","You need to practice locking your mental focus.",""
+"SAAI002SA","Sasha","It makes targeting and evasive maneuvers much easier.",""
+"SAAI003SA","Sasha","Let's try again, this time lock your mental focus.",""
+"SAAJ000SA","Sasha","Razputin, see those valves? That is where the censors are leaking out.",""
+"SAAJ001SA","Sasha","PSI Blast the valves to shut them down and get this area under control!",""
+"SAAJ002SA","Sasha","Good, now the next one. You have to get them all.",""
+"SAAJ003SA","Sasha","Good, well you got them all. ",""
+"SAAJ004SA","Sasha","Oh, no. You close one leak down and another springs up!",""
+"SAAJ005SA","Sasha","Well come on. We've got to take care of these too!",""
+"SAAK000SA","Sasha","Oh, no. What are you doing back in here?",""
+"SAAK001RA","Raz","Practicing.",""
+"SAAK002SA","Sasha","Oh, would you like to run the course again?",""
+"SAAK003RA","Raz","Yeah, I--run the course? But all that censor overload stuff... that was an accident. ",""
+"SAAK004SA","Sasha","Oh, Raz. I knew you were going to overload that switch. I would have done the same thing at your age.",""
+"SAAK005SA","Sasha","It was all arranged to make you an expert fighter. And it worked.",""
+"SAAK006SA","Sasha","Now, if you'd like to run the course again, just shoot the controller on any given face.",""
+"SAAK007SA","Sasha","To close that face up and open another, shoot any censor valves you see.",""
+"SAAK008SA","Sasha","Fair enough?",""
+"SAAK009RA","Raz","Even the part where the giant censor had you on the stamp?",""
+"SAAK010SA","Sasha","Okay, that part got a little out of hand. We won't be seeing him again.",""
+"SAAK011SA","Sasha","Razputin! I'm so glad to see you. What's happened?",""
+"SAAK012RA","Raz","Coach Oleander is trying to take over the world with a fleet of psychic death tanks, armed with the stolen brains of my fellow campers.",""
+"SAAK013RA","Raz","Where are you?",""
+"SAAK014SA","Sasha","I... I have no idea. I seem to be... asleep... or in a trance...",""
+"SAAK015RA","Raz","Well don't worry about it. Ford and I are on the case.",""
+"SAAK016SA","Sasha","Okay. I'd love to join you, but I think I need to focus on maintaining some level of brain activity.",""
+"SAAK017RA","Raz","Ooh, I can help with that! Let me shoot up the place!",""
+"SAZE000TO","System","Move RIGHT {Joystick} while holding {LeftFlipper} to switch targets.",""
+"SAZE001TO","System","Press {RightFlipper} to shoot.",""
+"SAZE002TO","System","Hold {LeftFlipper} to lock on to a target.",""
+"SAZE003TO","System","Hold {LeftFlipper} to lock on, then press {RightFlipper}",""
+"SAZF000TO","System","When your MENTAL FOCUS is LOCKED, press {AButton} and move the LEFT {Joystick} to execute a fast tumble in any direction. Very useful for circling your enemies!",""
+"SAZF001TO","System","DAILY MAXIMUM REACHED for this Censor output setting. Please increase Censor output setting if more Censors are desired.",""
+"SAAM000SA","Sasha","Enough horseplay, Razputin!",""
+"SAAK018SA","Sasha","Razputin, instead of that why don't you help me free Ms. Zanotto?",""

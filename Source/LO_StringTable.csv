@@ -1,246 +1,246 @@
-identifier,labels,context,source,translation
-LOIN001LP,LOIN,Lungfish-Police,"Ah, top of the mornin' to ya, ma'am.",
-LOIN002LY,LOIN,Lungfish-Madam,"And good day to you, Officer O'Lungfish. How are you today?",
-LOIN003LP,LOIN,Lungfish-Police,"Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?",
-LOIN004LY,LOIN,Lungfish-Madam,"Oh, just obeying the law as always. All posted directives followed to the letter.",
-LOIN005LP,LOIN,Lungfish-Police,"Ah, good to hear! Not a one of us want any trouble that's for sure!",
-LOIN006LY,LOIN,Lungfish-Madam,Aaaaahhhhh!!!!,
-LOIN007LP,LOIN,Lungfish-Police,Aaaaaahhhh!!!!,
-LOIN008LR,LOIN,Lungfish-Resistance,"Oh, Goggalor!!!!",
-LOVE001CO,LOVE,Coach,Agggghhh!,
-LOVE002CO,LOVE,Coach,Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!,
-LOVE003CO,LOVE,Coach,I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!,
-LOVE004RA,LOVE,Raz,Why you--heh heh!,
-LOVE005CO,LOVE,Coach,Wha--,
-LOVE006RA,LOVE,Raz,Ha ha ha!,
-LOVE007CO,LOVE,Coach,What?,
-LOVE008RA,LOVE,Raz,You've got the brain of a little girl! Ha ha ha!,
-LOVE009CO,LOVE,Coach,I said in my lab!,
-LOVE010RA,LOVE,Raz,"I think you've got the muscles of a little girl, too.",
-LOVE012CO,LOVE,Coach,Ahhhh! Grrrrr!,
-LOVE013CO,LOVE,Coach,Good one!,
-LOAB005Z1,LOAB,Zealots-1,Freedom!,
-LOAB014Z1,LOAB,Zealots-1,WOOOOO!,
-LOAB015Z1,LOAB,Zealots-1,FREEDO--,
-LOAB109Z1,LOAB,Zealots-1,FREEDOM!,
-LOCP001LC,LOCP,Lungfish-Citizen,Ahhhhhhhhh!,
-LOCP002LC,LOCP,Lungfish-Citizen,"Kochamara, save us!",
-LOCP003LC,LOCP,Lungfish-Citizen,Where is Kochamara?,
-LOCP004LC,LOCP,Lungfish-Citizen,"Ah, my house!",
-LOCP005LC,LOCP,Lungfish-Citizen,That's my school! ... Hooray!,
-LOCP006LC,LOCP,Lungfish-Citizen,Heeeeelllllllp!,
-LOCP007LC,LOCP,Lungfish-Citizen,It's Goggalor! Run!,
-LOCP008LC,LOCP,Lungfish-Citizen,"Please don't kill me, Goggalor!",
-LOCP009LC,LOCP,Lungfish-Citizen,It's Goggalor! He hates children!,
-LOCP010LC,LOCP,Lungfish-Citizen,"Hey everyone, here comes Kochamara! No, wait, it's Goggalor. RUN!",
-LOCP011LC,LOCP,Lungfish-Citizen,Bullets don't hurt him!,
-LOCP012LC,LOCP,Lungfish-Citizen,"Why, Goggalor, why?",
-LOCP013LC,LOCP,Lungfish-Citizen,Nothing can stop him!,
-LOCP014LC,LOCP,Lungfish-Citizen,Where are the police?,
-LOCP015LC,LOCP,Lungfish-Citizen,"Go back to your watery hell, Goggalor!",
-LOCP017LC,LOCP,Lungfish-Citizen,"I hate you, Goggalor!",
-LOCP018LC,LOCP,Lungfish-Citizen,Nooooooooooo! Not the natural history museum!,
-LOCP019LC,LOCP,Lungfish-Citizen,"Oh no, Goggalor's heading for the orphanage!",
-LOCP020LC,LOCP,Lungfish-Citizen,It's okay everyone. Goggalor missed the orphanage!,
-LOCP021LC,LOCP,Lungfish-Citizen,No wait he's still heading for the orphanage!,
-LOCP022LC,LOCP,Lungfish-Citizen,"Oh my god, the orphanage!",
-LOCP023LC,LOCP,Lungfish-Citizen,Hold on--that wasn't the orphanage.,
-LOCP024LC,LOCP,Lungfish-Citizen,"Oh no, it was the orphanage--for dogs. It was the puppy orphanage everyone!",
-LOCP025LC,LOCP,Lungfish-Citizen,No wait--I spoke too fast.,
-LOCP026LC,LOCP,Lungfish-Citizen,It was just a mattress factory.,
-LOCP027LC,LOCP,Lungfish-Citizen,"Okay, that's not too bad.",
-LOCP028LC,LOCP,Lungfish-Citizen,"Ahhhhh, my mattress factory! I'm ruined!",
-LOCP029LC,LOCP,Lungfish-Citizen,I love you Goggalor!,
-LOCP030LC,LOCP,Lungfish-Citizen,"Good lord, he's impervious to bullets and love!",
-LOCP031LC,LOCP,Lungfish-Citizen,Why doesn't the Navy electrocute him?,
-LOCP032LC,LOCP,Lungfish-Citizen,"I don't want to complain, but Kochamara should do something.",
-LOCP033LC,LOCP,Lungfish-Citizen,"Holy smokes, those goggles are five thousand meters tall!",
-LOCP034LC,LOCP,Lungfish-Citizen,Oh no. Ohhhhh no. Noooooooo!,
-LOCP035LC,LOCP,Lungfish-Citizen,"You're lucky we can't own guns, Goggalor!",
-LOCP036LC,LOCP,Lungfish-Citizen,"We've faced monsters like you before, Goggalor, only much smaller.",
-LOCP037LC,LOCP,Lungfish-Citizen,My car!,
-LOCP038LC,LOCP,Lungfish-Citizen,My bait shop!,
-LOCP039LC,LOCP,Lungfish-Citizen,My tank!,
-LOCP040LC,LOCP,Lungfish-Citizen,My cheese shop!,
-LOCP041LC,LOCP,Lungfish-Citizen,My outlet store!,
-LOCP042LC,LOCP,Lungfish-Citizen,Gahhhhhhhhh!,
-LOZI001Z1,LOZI,Zealots-1,Hey! Goggalor! Down here!,
-LOZI002RA,LOZI,Raz,"Excuse me, were you talking to me?",
-LOZI003Z1,LOZI,Zealots-1,Ahhhhhh! Owwwww! My ears!,
-LOZI004RA,LOZI,Raz,I'm sorry.,
-LOZI005Z1,LOZI,Zealots-1,Ahhhhhh! Oh my god! Ahhhhhhhh!,
-LOZI006RA,LOZI,Raz,Are you okay?,
-LOZI007Z2,LOZI,Zealots-2,He's dead!,
-LOZI008RA,LOZI,Raz,"Oh jeez, I'm sorry.",
-LOZI009Z2,LOZI,Zealots-2,"Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.",
-LOZI010RA,LOZI,Raz,What's Kochamara?,
-LOZI011Z2,LOZI,Zealots-2,"He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.",
-LOZI012RA,LOZI,Raz,"That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.",
-LOZI015Z2,LOZI,Zealots-2,"The government archives might have some information about your young girlfriend, Goggalor.",
-LOZI016RA,LOZI,Raz,"I don't know if she's really my girlfriend. I mean, I think she--",
-LOZI017Z2,LOZI,Zealots-2,"I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.",
-LOZI018RA,LOZI,Raz,"Check. I'll go smash that, then.",
-LOZI019Z2,LOZI,Zealots-2,"Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.",
-LOZI020RA,LOZI,Raz,So are you gonna start helping soon?,
-LOZI021Z2,LOZI,Zealots-2,"First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!",
-LOZI025RA,LOZI,Raz,Hooyah! Now how about getting me past those gates?,
-LOZI026Z1,LOZI,Zealots-1,"Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.",
-LOZI027RA,LOZI,Raz,"Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?",
-LOZI028Z1,LOZI,Zealots-1,Nooo.,
-LOZI029Z2,LOZI,Zealots-2,I doubt it.,
-LOZI030Z3,LOZI,Zealots-3,"Uh, no no no.",
-LOZI031RA,LOZI,Raz,So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?,
-LOZI032Z1,LOZI,Zealots-1,Nooooo!,
-LOZI033Z2,LOZI,Zealots-2,"Uhh, maybe one guy would.",
-LOZI034Z1,LOZI,Zealots-1,But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!,
-LOZI035RA,LOZI,Raz,"Wait, what Navy?",
-LOZI036Z1,LOZI,Zealots-1,"Meet us at the dam, Goggalor. FOR FREEDOM!",
-LOZM003Z1,LOZM,Zealots-1,"Goggalor, come in! We have commandeered these vessels in your name!",
-LOZM004Z2,LOZM,Zealots-2,"We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!",
-LOZM005Z1,LOZM,Zealots-1,"The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh",
-LOZM006Z2,LOZM,Zealots-2,"Er, we just think it best, uh... to... er uh",
-LOZM007Z1,LOZM,Zealots-1,We've decided to maintain our position out here.,
-LOZM008Z2,LOZM,Zealots-2,Just until you clear the area of all hostiles.,
-LOZM009Z1,LOZM,Zealots-1,Yes.,
-LOZM010Z2,LOZM,Zealots-2,"For insurance reasons, Goggalor.",
-LOZM011Z1,LOZM,Zealots-1,"Yes! That, and for Freedom!",
-LOZJ001TO,LOZJ,System,Terror in Lungfishopolis,
-LOAA001CO,LOAA,Coach,"The peaceful city of Lungfishopolis is under attack tonight by a hideous, gigantic monster the terrified citizens have named, ""Goggalor.""",
-LOAA002CO,LOAA,Coach,"The navy has responded quickly and decisively, dispatching its entire tank division to neutralize the creature.",
-LOAA003CO,LOAA,Coach,"Soon, authorities say, everything will return to normal or better.",
-LOAA004CO,LOAA,Coach,(Kidnapping human children is good.),
-LOZJ000TO,LOZJ,System,Goggalor: On Drugs?,
-LOAD001CO,LOAD,Coach,"Well, things have gotten a little embarrassing for Goggalor. Recently surfaced information has strongly linked the previously intimidating monster with common lowlife criminals.",
-LOAD002CO,LOAD,Coach,"Earlier tonight, Goggalor broke some of his jailhouse cronies out of the slammer so they could enjoy a night on the town, popping pills, and soliciting inexpensive call girls.",
-LOAD003CO,LOAD,Coach,"Well, they're in for one nasty hangover! Our beloved Navy has come up with a high-tech new invention: trucks armed with HYPER-ELECTRICITY!!!",
-LOAD004CO,LOAD,Coach,"(When kidnapping children, do not harm the brains.)",
-LOZJ002TO,LOZJ,System,No Quarter from Goggalor,
-LOAE001CO,LOAE,Coach,"The destruction and terror continue as the hulking, godless child-beast carves a bloody swath through our helpless city.",
-LOAE002CO,LOAE,Coach,"Our noble, all-volunteer Navy has been surprised only by the senseless lust for mayhem that seeps from the twisted, black lump of a heart in this creature, still known only as Goggalor.",
-LOAE003CO,LOAE,Coach,"Though it loathes violence in all its forms, the Navy has no choice but to activate its Anti-Monster Turrets, which it guarantees are 100% monster proof.",
-LOAE004CO,LOAE,Coach,(Do not get caught stealing children.),
-LOZJ003TO,LOZJ,System,Famous Child Star Hates Goggalor,
-LOAF001CO,LOAF,Coach,"We're here with the star of the popular sitcom, ""Trouble in the Bubble,"" Buddy Finn. ",
-LOAF002CO,LOAF,Coach,"Buddy, what's your take on the Goggalor situation? Is he just misunderstood? ",
-LOAF003CO,LOAF,Coach,No way! I hate Goggalor! I can't imagine any one of my fans siding with the monster. He hates everything Lungfish care about--,
-LOAF004CO,LOAF,Coach,"Air, water, family, the economy...",
-LOAF005CO,LOAF,Coach,"Buddy, you'll be happy to know that the Navy has decided to pull out what they're most famous for: ",
-LOAF007CO,LOAF,Coach,"So, rest assured, we can all look forward to Goggalor's imminent death, and to seeing you, Buddy, every Thursday night at eight, right here on LBC!",
-LOAF008CO,LOAF,Coach,"Thanks, and I'd just like to add that if anyone kidnaps a human child they should take them quickly under the lake to the abandoned insane asylum.",
-LOZJ004TO,LOZJ,System,The End is Nigh,
-LOAG001CO,LOAG,Coach,"Well, we're sorry to report that the miserable and incompetent Lungfish Navy is all but sunk.",
-LOAG002CO,LOAG,Coach,"Great work, losers!",
-LOAG003CO,LOAG,Coach,Now Kochamara himself will have to come all the way down here just to save our worthless hides. ,
-LOAG004CO,LOAG,Coach,"Authorities are calling for a big parade in Kochamara's honor after he clobbers the annoying giant Goggalor, and if the parade is big enough, Kochamara promises NOT to destroy the city.",
-LOAG005CO,LOAG,Coach,(Brush teeth more often. Don't drool so much.),
-LOAH000Z1,LOAH,Zealots-1,"Goggalor, what are you doing down here?",
-LOAH001RA,LOAH,Raz,I'm trying to get to that Kochamara Tower thing so I can smash it.,
-LOAH002Z1,LOAH,Zealots-1,"The laser tunnel, Goggalor. We have to get through that or we'll never get to Kochamara Island!",
-LOAH003RA,LOAH,Raz,But I thought--,
-LOAH004Z1,LOAH,Zealots-1,"There is no ""I"" in team, Goggalor!",
-LOAH005RA,LOAH,Raz,"Yeah, but there's an ""I"" in ""squish"" so watch it.",
-LOAH006RA,LOAH,Raz,"I'll go take out your laser tunnel, but then we're going to talk about who's running this revolution.",
-LOAI000Z1,LOAI,Zealots-1,"Goggalor! Another jail to smash! Take it out and free the prisoners, Goggalor!",
-LOAI002Z4,LOAI,Zealots-4,"So this big monster, is that the best you could do?",
-LOAI003Z1,LOAI,Zealots-1,"We were short on time, and he is good at smashing things!",
-LOAI004Z4,LOAI,Zealots-4,"Doesn't look like much to me. Come on, let's blow this joint.",
-LOAI005RA,LOAI,Raz,"Hey, you're welcome!",
-LOAI006Z1,LOAI,Zealots-1,"Sorry about him, Goggalor. He's been in prison a long time.",
-LOAI007Z1,LOAI,Zealots-1,"He's the only pilot the resistance has, and he has an excellent plan! ",
-LOAI008Z1,LOAI,Zealots-1,Meet us at the dam so we can put it into action!,
-LOAI009Z1,LOAI,Zealots-1,"Ha! Now you see the genius of our plan, Goggalor!",
-LOAI010Z4,LOAI,Zealots-4,"First, we print flyers. Then we spread them all over town with my blimp!",
-LOAI011Z1,LOAI,Zealots-1,Winning over the hearts and minds of Lungfishopolis in as soon as six months.,
-LOAI012RA,LOAI,Raz,Six months?,
-LOAI013Z4,LOAI,Zealots-4,"You don't like our plan, you can come up with another one!",
-LOAI014Z1,LOAI,Zealots-1,"Yes, we are busy! We have to select card stock, and then find a decent, but inexpensive printer within the week.",
-LOAI015Z4,LOAI,Zealots-4,"Hey, what are you doing up there?",
-LOAI016Z4,LOAI,Zealots-4,Ow!,
-LOAI017Z4,LOAI,Zealots-4,Hey!,
-LOAI018Z1,LOAI,Zealots-1,Careful! My chai tea!,
-LOAI019Z4,LOAI,Zealots-4,Quit it!,
-LOAI020Z4,LOAI,Zealots-4,Knock it off!,
-LOAI021Z4,LOAI,Zealots-4,"We don't have a replacement blimp, you know!",
-LOAI022RA,LOAI,Raz,Have you come up with a better plan than the pamphlets yet?,
-LOAI023Z4,LOAI,Zealots-4,"Yes, it's called ""Turn in Goggalor for Reward Money.""",
-LOAI024RA,LOAI,Raz,"Hey, you guys still in there? It's Goggalor!",
-LOAI025Z4,LOAI,Zealots-4,"Oh, this guy. Just ignore him. He'll go away. ",
-LOZN000Z1,LOZN,Zealots-1,"The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor we... uh",
-LOAJ000CO,LOAJ,Coach,"Give up while you can, Goggalor!",
-LOAJ001RA,LOAJ,Raz,"I know it's you in there, Coach! I don't know where you're broadcasting from, but I'm going to find out and make you show me what happened to Lili.",
-LOAJ002CO,LOAJ,Coach,Kochamara does not speak giant monster boy language.,
-LOAJ003RA,LOAJ,Raz,"The only word you're going to need is ""Ouch.""",
-LOAJ004CO,LOAJ,Coach,Miiiiiiiiiiightyyyyyyyyyyyyy... ,
-LOAJ005CO,LOAJ,Coach,RAM!,
-LOAJ006CO,LOAJ,Coach,Deeeeeeaaaadlyyyyyyyyy...,
-LOAJ007CO,LOAJ,Coach,TRIANGLE BEAM!,
-LOAJ008CO,LOAJ,Coach,"Hmm. So Sasha's showed you how to save up your aggressive energy, huh?",
-LOAJ009CO,LOAJ,Coach,"Well, why don't I help you",
-LOAJ010CO,LOAJ,Coach,Let it all out!,
-LOAJ011CO,LOAJ,Coach,Bwah ha ha!,
-LOAJ012CO,LOAJ,Coach,"Whaddya going to do now, eh?",
-LOAJ013CO,LOAJ,Coach,Oh no! No ammo!,
-LOAJ014CO,LOAJ,Coach,I'm lost without my ammo!,
-LOAJ015CO,LOAJ,Coach,I'm nothing without my cheater PSI Blast!,
-LOAJ016CO,LOAJ,Coach,"Oh, Sasha, Sasha. Come help me.",
-LOAJ017CO,LOAJ,Coach,I have no defenses of my own!,
-LOAJ018CO,LOAJ,Coach,Miiiiightyyy Raaaaam...,
-LOAJ019CO,LOAJ,Coach,GROUND VERSION!,
-LOAJ020CO,LOAJ,Coach,Speeeeee-deeeeeee...,
-LOAJ021CO,LOAJ,Coach,KICK!,
-LOAJ022CO,LOAJ,Coach,Ooooverrrrrlyyyyy Innnnn-triiiiii-cate,
-LOAJ024CO,LOAJ,Coach,Haaaarrrrrrd tooooo aaaaavoooid,
-LOAJ025CO,LOAJ,Coach,...aaaaavoooid...,
-LOAJ026CO,LOAJ,Coach,AREA ATTACK!,
-LOAJ027CO,LOAJ,Coach,Woooooo-hoooooo!,
-LOAJ028CO,LOAJ,Coach,MMmm-hmmm.,
-LOAJ029CO,LOAJ,Coach,Feel the burn!,
-LOAJ030CO,LOAJ,Coach,Ha!,
-LOAJ031CO,LOAJ,Coach,Huhhh!,
-LOAJ032CO,LOAJ,Coach,Hup!,
-LOAJ033CO,LOAJ,Coach,Hyaaa!,
-LOAJ034CO,LOAJ,Coach,Hap!,
-LOAJ035CO,LOAJ,Coach,Hop!,
-LOAJ036CO,LOAJ,Coach,Hayooo!,
-LOAJ037CO,LOAJ,Coach,Waaaaaaah!,
-LOAJ038CO,LOAJ,Coach,And this!,
-LOAJ039CO,LOAJ,Coach,And that!,
-LOAJ040CO,LOAJ,Coach,And backwards!,
-LOAJ041CO,LOAJ,Coach,And faked you out!,
-LOAJ042CO,LOAJ,Coach,Ha ha!,
-LOAJ043CO,LOAJ,Coach,Ho ho!,
-LOAJ044CO,LOAJ,Coach,Heh heh heh!,
-LOAJ045CO,LOAJ,Coach,Ahhh!,
-LOAJ046CO,LOAJ,Coach,Oooff!,
-LOAJ047CO,LOAJ,Coach,Gahhh!,
-LOAJ048CO,LOAJ,Coach,(electrocution sounds),
-LOAJ049CO,LOAJ,Coach,Grrr!,
-LOAJ050RA,LOAJ,Raz,Give up Coach. I'm sure the Psychonauts are on their way from HQ right now to bust you.,
-LOAJ051CO,LOAJ,Coach,"Sorry, but I was made senior facility officer this year, and the senior facility officer has notified HQ that everything is peachy at Camp Whispering Rock!",
-LOAK000CO,LOAK,Coach,People of Lungfishopolis...,
-LOAK001CO,LOAK,Coach,...I'm sorry I let you down.,
-LOAK002CO,LOAK,Coach,Ggggghhh..,
-LOAK003RA,LOAK,Raz,Finally!,
-LOAK004RA,LOAK,Raz,"Okay, tower. Get ready for Goggalor!",
-LOAK005Z1,LOAK,Zealots-1,"Goggalor, you did it! You defeated Kochamara!",
-LOAK006RA,LOAK,Raz,Yep. Now we can find out where Lili went.,
-LOAK007Z1,LOAK,Zealots-1,Not yet. The tower is still broadcasting its mind control over the populace!,
-LOAK008Z1,LOAK,Zealots-1,You must destroy the tower!,
-LOAK009RA,LOAK,Raz,"Right. Man, Goggalor needs a sidekick or a PA or something.",
-LOAK010Z1,LOAK,Zealots-1,Goggalor! The tower!,
-LOAK011RA,LOAK,Raz,Oh! Yeah! Right.,
-LOAL000RA,LOAL,Raz,"Well, he was evil. But he did build a lot of roads.",
-LOAM000Z1,LOAM,Zealots-1,Goggalor! ,
-LOAM001RA,LOAM,Raz,"Hey, shouldn't this place be much quieter now that Kochamara's gone?",
-LOAM002Z1,LOAM,Zealots-1,"Well, there's still some crazy Navy guys who haven't realized that the war is over. But--we got 'em on the run I think.",
-LOAM003Z1,LOAM,Zealots-1,Got some really aggressive flyers at the printer right now. Should sway popular opinion our way in no time.,
-LOAM004RA,LOAM,Raz,So you don't mind if I smash up some more tanks and planes and stuff?,
-LOAM005Z1,LOAM,Zealots-1,"Goggalor, you may smash it all! This whole area is scheduled for reforestation. ",
-LOAM006Z1,LOAM,Zealots-1,Kochamara built this city for us. Lungfish weren't meant to live in cities!,
-LOAM007RA,LOAM,Raz,"Well, okay then. I'll bet I can save you a bit on the demolition costs.",
-LOAM008Z1,LOAM,Zealots-1,"Yeah, go nuts! You can squish people too if you want. My family lives in a whole other town.",
-LOZF000TO,LOZF,System,/YButton/ Pick up Tank.,
-LOZE000TO,LOZE,System,/YButton/ Throw Tank.,
-LOUC001LC,LOUC,Lungfish-Citizen,"Hey everyone, here comes Kochamara!",
-LOZF001TO,LOZF,System,"Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.",
-LOAO000RA,LOAO,Raz,Excellent. There it is.,
+"Identifier","Context","Source string","Translation"
+"LOIN001LP","Lungfish-Police","Ah, top of the mornin' to ya, ma'am.",""
+"LOIN002LY","Lungfish-Madam","And good day to you, Officer O'Lungfish. How are you today?",""
+"LOIN003LP","Lungfish-Police","Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?",""
+"LOIN004LY","Lungfish-Madam","Oh, just obeying the law as always. All posted directives followed to the letter.",""
+"LOIN005LP","Lungfish-Police","Ah, good to hear! Not a one of us want any trouble that's for sure!",""
+"LOIN006LY","Lungfish-Madam","Aaaaahhhhh!!!!",""
+"LOIN007LP","Lungfish-Police","Aaaaaahhhh!!!!",""
+"LOIN008LR","Lungfish-Resistance","Oh, Goggalor!!!!",""
+"LOVE001CO","Coach","Agggghhh!",""
+"LOVE002CO","Coach","Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!",""
+"LOVE003CO","Coach","I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!",""
+"LOVE004RA","Raz","Why you--heh heh!",""
+"LOVE005CO","Coach","Wha--",""
+"LOVE006RA","Raz","Ha ha ha!",""
+"LOVE007CO","Coach","What?",""
+"LOVE008RA","Raz","You've got the brain of a little girl! Ha ha ha!",""
+"LOVE009CO","Coach","I said in my lab!",""
+"LOVE010RA","Raz","I think you've got the muscles of a little girl, too.",""
+"LOVE012CO","Coach","Ahhhh! Grrrrr!",""
+"LOVE013CO","Coach","Good one!",""
+"LOAB005Z1","Zealots-1","Freedom!",""
+"LOAB014Z1","Zealots-1","WOOOOO!",""
+"LOAB015Z1","Zealots-1","FREEDO--",""
+"LOAB109Z1","Zealots-1","FREEDOM!",""
+"LOCP001LC","Lungfish-Citizen","Ahhhhhhhhh!",""
+"LOCP002LC","Lungfish-Citizen","Kochamara, save us!",""
+"LOCP003LC","Lungfish-Citizen","Where is Kochamara?",""
+"LOCP004LC","Lungfish-Citizen","Ah, my house!",""
+"LOCP005LC","Lungfish-Citizen","That's my school! ... Hooray!",""
+"LOCP006LC","Lungfish-Citizen","Heeeeelllllllp!",""
+"LOCP007LC","Lungfish-Citizen","It's Goggalor! Run!",""
+"LOCP008LC","Lungfish-Citizen","Please don't kill me, Goggalor!",""
+"LOCP009LC","Lungfish-Citizen","It's Goggalor! He hates children!",""
+"LOCP010LC","Lungfish-Citizen","Hey everyone, here comes Kochamara! No, wait, it's Goggalor. RUN!",""
+"LOCP011LC","Lungfish-Citizen","Bullets don't hurt him!",""
+"LOCP012LC","Lungfish-Citizen","Why, Goggalor, why?",""
+"LOCP013LC","Lungfish-Citizen","Nothing can stop him!",""
+"LOCP014LC","Lungfish-Citizen","Where are the police?",""
+"LOCP015LC","Lungfish-Citizen","Go back to your watery hell, Goggalor!",""
+"LOCP017LC","Lungfish-Citizen","I hate you, Goggalor!",""
+"LOCP018LC","Lungfish-Citizen","Nooooooooooo! Not the natural history museum!",""
+"LOCP019LC","Lungfish-Citizen","Oh no, Goggalor's heading for the orphanage!",""
+"LOCP020LC","Lungfish-Citizen","It's okay everyone. Goggalor missed the orphanage!",""
+"LOCP021LC","Lungfish-Citizen","No wait he's still heading for the orphanage!",""
+"LOCP022LC","Lungfish-Citizen","Oh my god, the orphanage!",""
+"LOCP023LC","Lungfish-Citizen","Hold on--that wasn't the orphanage.",""
+"LOCP024LC","Lungfish-Citizen","Oh no, it was the orphanage--for dogs. It was the puppy orphanage everyone!",""
+"LOCP025LC","Lungfish-Citizen","No wait--I spoke too fast.",""
+"LOCP026LC","Lungfish-Citizen","It was just a mattress factory.",""
+"LOCP027LC","Lungfish-Citizen","Okay, that's not too bad.",""
+"LOCP028LC","Lungfish-Citizen","Ahhhhh, my mattress factory! I'm ruined!",""
+"LOCP029LC","Lungfish-Citizen","I love you Goggalor!",""
+"LOCP030LC","Lungfish-Citizen","Good lord, he's impervious to bullets and love!",""
+"LOCP031LC","Lungfish-Citizen","Why doesn't the Navy electrocute him?",""
+"LOCP032LC","Lungfish-Citizen","I don't want to complain, but Kochamara should do something.",""
+"LOCP033LC","Lungfish-Citizen","Holy smokes, those goggles are five thousand meters tall!",""
+"LOCP034LC","Lungfish-Citizen","Oh no. Ohhhhh no. Noooooooo!",""
+"LOCP035LC","Lungfish-Citizen","You're lucky we can't own guns, Goggalor!",""
+"LOCP036LC","Lungfish-Citizen","We've faced monsters like you before, Goggalor, only much smaller.",""
+"LOCP037LC","Lungfish-Citizen","My car!",""
+"LOCP038LC","Lungfish-Citizen","My bait shop!",""
+"LOCP039LC","Lungfish-Citizen","My tank!",""
+"LOCP040LC","Lungfish-Citizen","My cheese shop!",""
+"LOCP041LC","Lungfish-Citizen","My outlet store!",""
+"LOCP042LC","Lungfish-Citizen","Gahhhhhhhhh!",""
+"LOZI001Z1","Zealots-1","Hey! Goggalor! Down here!",""
+"LOZI002RA","Raz","Excuse me, were you talking to me?",""
+"LOZI003Z1","Zealots-1","Ahhhhhh! Owwwww! My ears!",""
+"LOZI004RA","Raz","I'm sorry.",""
+"LOZI005Z1","Zealots-1","Ahhhhhh! Oh my god! Ahhhhhhhh!",""
+"LOZI006RA","Raz","Are you okay?",""
+"LOZI007Z2","Zealots-2","He's dead!",""
+"LOZI008RA","Raz","Oh jeez, I'm sorry.",""
+"LOZI009Z2","Zealots-2","Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.",""
+"LOZI010RA","Raz","What's Kochamara?",""
+"LOZI011Z2","Zealots-2","He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.",""
+"LOZI012RA","Raz","That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.",""
+"LOZI015Z2","Zealots-2","The government archives might have some information about your young girlfriend, Goggalor.",""
+"LOZI016RA","Raz","I don't know if she's really my girlfriend. I mean, I think she--",""
+"LOZI017Z2","Zealots-2","I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.",""
+"LOZI018RA","Raz","Check. I'll go smash that, then.",""
+"LOZI019Z2","Zealots-2","Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.",""
+"LOZI020RA","Raz","So are you gonna start helping soon?",""
+"LOZI021Z2","Zealots-2","First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!",""
+"LOZI025RA","Raz","Hooyah! Now how about getting me past those gates?",""
+"LOZI026Z1","Zealots-1","Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.",""
+"LOZI027RA","Raz","Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?",""
+"LOZI028Z1","Zealots-1","Nooo.",""
+"LOZI029Z2","Zealots-2","I doubt it.",""
+"LOZI030Z3","Zealots-3","Uh, no no no.",""
+"LOZI031RA","Raz","So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?",""
+"LOZI032Z1","Zealots-1","Nooooo!",""
+"LOZI033Z2","Zealots-2","Uhh, maybe one guy would.",""
+"LOZI034Z1","Zealots-1","But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!",""
+"LOZI035RA","Raz","Wait, what Navy?",""
+"LOZI036Z1","Zealots-1","Meet us at the dam, Goggalor. FOR FREEDOM!",""
+"LOZM003Z1","Zealots-1","Goggalor, come in! We have commandeered these vessels in your name!",""
+"LOZM004Z2","Zealots-2","We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!",""
+"LOZM005Z1","Zealots-1","The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh",""
+"LOZM006Z2","Zealots-2","Er, we just think it best, uh... to... er uh",""
+"LOZM007Z1","Zealots-1","We've decided to maintain our position out here.",""
+"LOZM008Z2","Zealots-2","Just until you clear the area of all hostiles.",""
+"LOZM009Z1","Zealots-1","Yes.",""
+"LOZM010Z2","Zealots-2","For insurance reasons, Goggalor.",""
+"LOZM011Z1","Zealots-1","Yes! That, and for Freedom!",""
+"LOZJ001TO","System","Terror in Lungfishopolis",""
+"LOAA001CO","Coach","The peaceful city of Lungfishopolis is under attack tonight by a hideous, gigantic monster the terrified citizens have named, ""Goggalor.""",""
+"LOAA002CO","Coach","The navy has responded quickly and decisively, dispatching its entire tank division to neutralize the creature.",""
+"LOAA003CO","Coach","Soon, authorities say, everything will return to normal or better.",""
+"LOAA004CO","Coach","(Kidnapping human children is good.)",""
+"LOZJ000TO","System","Goggalor: On Drugs?",""
+"LOAD001CO","Coach","Well, things have gotten a little embarrassing for Goggalor. Recently surfaced information has strongly linked the previously intimidating monster with common lowlife criminals.",""
+"LOAD002CO","Coach","Earlier tonight, Goggalor broke some of his jailhouse cronies out of the slammer so they could enjoy a night on the town, popping pills, and soliciting inexpensive call girls.",""
+"LOAD003CO","Coach","Well, they're in for one nasty hangover! Our beloved Navy has come up with a high-tech new invention: trucks armed with HYPER-ELECTRICITY!!!",""
+"LOAD004CO","Coach","(When kidnapping children, do not harm the brains.)",""
+"LOZJ002TO","System","No Quarter from Goggalor",""
+"LOAE001CO","Coach","The destruction and terror continue as the hulking, godless child-beast carves a bloody swath through our helpless city.",""
+"LOAE002CO","Coach","Our noble, all-volunteer Navy has been surprised only by the senseless lust for mayhem that seeps from the twisted, black lump of a heart in this creature, still known only as Goggalor.",""
+"LOAE003CO","Coach","Though it loathes violence in all its forms, the Navy has no choice but to activate its Anti-Monster Turrets, which it guarantees are 100% monster proof.",""
+"LOAE004CO","Coach","(Do not get caught stealing children.)",""
+"LOZJ003TO","System","Famous Child Star Hates Goggalor",""
+"LOAF001CO","Coach","We're here with the star of the popular sitcom, ""Trouble in the Bubble,"" Buddy Finn. ",""
+"LOAF002CO","Coach","Buddy, what's your take on the Goggalor situation? Is he just misunderstood? ",""
+"LOAF003CO","Coach","No way! I hate Goggalor! I can't imagine any one of my fans siding with the monster. He hates everything Lungfish care about--",""
+"LOAF004CO","Coach","Air, water, family, the economy...",""
+"LOAF005CO","Coach","Buddy, you'll be happy to know that the Navy has decided to pull out what they're most famous for: ",""
+"LOAF007CO","Coach","So, rest assured, we can all look forward to Goggalor's imminent death, and to seeing you, Buddy, every Thursday night at eight, right here on LBC!",""
+"LOAF008CO","Coach","Thanks, and I'd just like to add that if anyone kidnaps a human child they should take them quickly under the lake to the abandoned insane asylum.",""
+"LOZJ004TO","System","The End is Nigh",""
+"LOAG001CO","Coach","Well, we're sorry to report that the miserable and incompetent Lungfish Navy is all but sunk.",""
+"LOAG002CO","Coach","Great work, losers!",""
+"LOAG003CO","Coach","Now Kochamara himself will have to come all the way down here just to save our worthless hides. ",""
+"LOAG004CO","Coach","Authorities are calling for a big parade in Kochamara's honor after he clobbers the annoying giant Goggalor, and if the parade is big enough, Kochamara promises NOT to destroy the city.",""
+"LOAG005CO","Coach","(Brush teeth more often. Don't drool so much.)",""
+"LOAH000Z1","Zealots-1","Goggalor, what are you doing down here?",""
+"LOAH001RA","Raz","I'm trying to get to that Kochamara Tower thing so I can smash it.",""
+"LOAH002Z1","Zealots-1","The laser tunnel, Goggalor. We have to get through that or we'll never get to Kochamara Island!",""
+"LOAH003RA","Raz","But I thought--",""
+"LOAH004Z1","Zealots-1","There is no ""I"" in team, Goggalor!",""
+"LOAH005RA","Raz","Yeah, but there's an ""I"" in ""squish"" so watch it.",""
+"LOAH006RA","Raz","I'll go take out your laser tunnel, but then we're going to talk about who's running this revolution.",""
+"LOAI000Z1","Zealots-1","Goggalor! Another jail to smash! Take it out and free the prisoners, Goggalor!",""
+"LOAI002Z4","Zealots-4","So this big monster, is that the best you could do?",""
+"LOAI003Z1","Zealots-1","We were short on time, and he is good at smashing things!",""
+"LOAI004Z4","Zealots-4","Doesn't look like much to me. Come on, let's blow this joint.",""
+"LOAI005RA","Raz","Hey, you're welcome!",""
+"LOAI006Z1","Zealots-1","Sorry about him, Goggalor. He's been in prison a long time.",""
+"LOAI007Z1","Zealots-1","He's the only pilot the resistance has, and he has an excellent plan! ",""
+"LOAI008Z1","Zealots-1","Meet us at the dam so we can put it into action!",""
+"LOAI009Z1","Zealots-1","Ha! Now you see the genius of our plan, Goggalor!",""
+"LOAI010Z4","Zealots-4","First, we print flyers. Then we spread them all over town with my blimp!",""
+"LOAI011Z1","Zealots-1","Winning over the hearts and minds of Lungfishopolis in as soon as six months.",""
+"LOAI012RA","Raz","Six months?",""
+"LOAI013Z4","Zealots-4","You don't like our plan, you can come up with another one!",""
+"LOAI014Z1","Zealots-1","Yes, we are busy! We have to select card stock, and then find a decent, but inexpensive printer within the week.",""
+"LOAI015Z4","Zealots-4","Hey, what are you doing up there?",""
+"LOAI016Z4","Zealots-4","Ow!",""
+"LOAI017Z4","Zealots-4","Hey!",""
+"LOAI018Z1","Zealots-1","Careful! My chai tea!",""
+"LOAI019Z4","Zealots-4","Quit it!",""
+"LOAI020Z4","Zealots-4","Knock it off!",""
+"LOAI021Z4","Zealots-4","We don't have a replacement blimp, you know!",""
+"LOAI022RA","Raz","Have you come up with a better plan than the pamphlets yet?",""
+"LOAI023Z4","Zealots-4","Yes, it's called ""Turn in Goggalor for Reward Money.""",""
+"LOAI024RA","Raz","Hey, you guys still in there? It's Goggalor!",""
+"LOAI025Z4","Zealots-4","Oh, this guy. Just ignore him. He'll go away. ",""
+"LOZN000Z1","Zealots-1","The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor we... uh",""
+"LOAJ000CO","Coach","Give up while you can, Goggalor!",""
+"LOAJ001RA","Raz","I know it's you in there, Coach! I don't know where you're broadcasting from, but I'm going to find out and make you show me what happened to Lili.",""
+"LOAJ002CO","Coach","Kochamara does not speak giant monster boy language.",""
+"LOAJ003RA","Raz","The only word you're going to need is ""Ouch.""",""
+"LOAJ004CO","Coach","Miiiiiiiiiiightyyyyyyyyyyyyy... ",""
+"LOAJ005CO","Coach","RAM!",""
+"LOAJ006CO","Coach","Deeeeeeaaaadlyyyyyyyyy...",""
+"LOAJ007CO","Coach","TRIANGLE BEAM!",""
+"LOAJ008CO","Coach","Hmm. So Sasha's showed you how to save up your aggressive energy, huh?",""
+"LOAJ009CO","Coach","Well, why don't I help you",""
+"LOAJ010CO","Coach","Let it all out!",""
+"LOAJ011CO","Coach","Bwah ha ha!",""
+"LOAJ012CO","Coach","Whaddya going to do now, eh?",""
+"LOAJ013CO","Coach","Oh no! No ammo!",""
+"LOAJ014CO","Coach","I'm lost without my ammo!",""
+"LOAJ015CO","Coach","I'm nothing without my cheater PSI Blast!",""
+"LOAJ016CO","Coach","Oh, Sasha, Sasha. Come help me.",""
+"LOAJ017CO","Coach","I have no defenses of my own!",""
+"LOAJ018CO","Coach","Miiiiightyyy Raaaaam...",""
+"LOAJ019CO","Coach","GROUND VERSION!",""
+"LOAJ020CO","Coach","Speeeeee-deeeeeee...",""
+"LOAJ021CO","Coach","KICK!",""
+"LOAJ022CO","Coach","Ooooverrrrrlyyyyy Innnnn-triiiiii-cate",""
+"LOAJ024CO","Coach","Haaaarrrrrrd tooooo aaaaavoooid",""
+"LOAJ025CO","Coach","...aaaaavoooid...",""
+"LOAJ026CO","Coach","AREA ATTACK!",""
+"LOAJ027CO","Coach","Woooooo-hoooooo!",""
+"LOAJ028CO","Coach","MMmm-hmmm.",""
+"LOAJ029CO","Coach","Feel the burn!",""
+"LOAJ030CO","Coach","Ha!",""
+"LOAJ031CO","Coach","Huhhh!",""
+"LOAJ032CO","Coach","Hup!",""
+"LOAJ033CO","Coach","Hyaaa!",""
+"LOAJ034CO","Coach","Hap!",""
+"LOAJ035CO","Coach","Hop!",""
+"LOAJ036CO","Coach","Hayooo!",""
+"LOAJ037CO","Coach","Waaaaaaah!",""
+"LOAJ038CO","Coach","And this!",""
+"LOAJ039CO","Coach","And that!",""
+"LOAJ040CO","Coach","And backwards!",""
+"LOAJ041CO","Coach","And faked you out!",""
+"LOAJ042CO","Coach","Ha ha!",""
+"LOAJ043CO","Coach","Ho ho!",""
+"LOAJ044CO","Coach","Heh heh heh!",""
+"LOAJ045CO","Coach","Ahhh!",""
+"LOAJ046CO","Coach","Oooff!",""
+"LOAJ047CO","Coach","Gahhh!",""
+"LOAJ048CO","Coach","(electrocution sounds)",""
+"LOAJ049CO","Coach","Grrr!",""
+"LOAJ050RA","Raz","Give up Coach. I'm sure the Psychonauts are on their way from HQ right now to bust you.",""
+"LOAJ051CO","Coach","Sorry, but I was made senior facility officer this year, and the senior facility officer has notified HQ that everything is peachy at Camp Whispering Rock!",""
+"LOAK000CO","Coach","People of Lungfishopolis...",""
+"LOAK001CO","Coach","...I'm sorry I let you down.",""
+"LOAK002CO","Coach","Ggggghhh..",""
+"LOAK003RA","Raz","Finally!",""
+"LOAK004RA","Raz","Okay, tower. Get ready for Goggalor!",""
+"LOAK005Z1","Zealots-1","Goggalor, you did it! You defeated Kochamara!",""
+"LOAK006RA","Raz","Yep. Now we can find out where Lili went.",""
+"LOAK007Z1","Zealots-1","Not yet. The tower is still broadcasting its mind control over the populace!",""
+"LOAK008Z1","Zealots-1","You must destroy the tower!",""
+"LOAK009RA","Raz","Right. Man, Goggalor needs a sidekick or a PA or something.",""
+"LOAK010Z1","Zealots-1","Goggalor! The tower!",""
+"LOAK011RA","Raz","Oh! Yeah! Right.",""
+"LOAL000RA","Raz","Well, he was evil. But he did build a lot of roads.",""
+"LOAM000Z1","Zealots-1","Goggalor! ",""
+"LOAM001RA","Raz","Hey, shouldn't this place be much quieter now that Kochamara's gone?",""
+"LOAM002Z1","Zealots-1","Well, there's still some crazy Navy guys who haven't realized that the war is over. But--we got 'em on the run I think.",""
+"LOAM003Z1","Zealots-1","Got some really aggressive flyers at the printer right now. Should sway popular opinion our way in no time.",""
+"LOAM004RA","Raz","So you don't mind if I smash up some more tanks and planes and stuff?",""
+"LOAM005Z1","Zealots-1","Goggalor, you may smash it all! This whole area is scheduled for reforestation. ",""
+"LOAM006Z1","Zealots-1","Kochamara built this city for us. Lungfish weren't meant to live in cities!",""
+"LOAM007RA","Raz","Well, okay then. I'll bet I can save you a bit on the demolition costs.",""
+"LOAM008Z1","Zealots-1","Yeah, go nuts! You can squish people too if you want. My family lives in a whole other town.",""
+"LOZF000TO","System","{YButton} Pick up Tank.",""
+"LOZE000TO","System","{YButton} Throw Tank.",""
+"LOUC001LC","Lungfish-Citizen","Hey everyone, here comes Kochamara!",""
+"LOZF001TO","System","Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.",""
+"LOAO000RA","Raz","Excellent. There it is.",""

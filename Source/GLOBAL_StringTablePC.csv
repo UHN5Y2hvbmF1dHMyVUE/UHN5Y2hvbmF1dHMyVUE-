@@ -1,117 +1,117 @@
-identifier,labels,context,source,translation
-GLZA053TO,GLZA,System,/AButton/ Yes.,
-GLZA054TO,GLZA,System,/AButton/ No.,
-GLZD286TO,GLZD,System,"Use /MovementControls/ and then press /BlackButton/,  /WhiteButton/, or /RightFlipper/ to map the selected power to that button.",
-GLZD287TO,GLZD,System,"To pull out an item from your backpack, point to it with /MovementControls/ and then press /AButton/. To return it to your backpack later, press /BButton/.",
-GLZD351TO,GLZD,System,Please reconnect the controller to controller port,
-GLZD321TO,GLZD,System,Drag /FullMouse/ or use Right /Joystick/ TO NAVIGATE.,
-GLZD335TO,GLZD,System,/AButton/ LOAD,
-GLZD336TO,GLZD,System,/XButton/ DELETE,
-GLZD338TO,GLZD,System,/AButton/ SAVE,
-GLZD347TO,GLZD,System,"You don't have enough free space to save this profile.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.",
-GLZD348TO,GLZD,System,"You don't have enough free space to save games.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.",
-GLZD356TO,GLZD,System,/MovementControls/ to SCROLL.,
-GLZD358TO,GLZD,System,/BButton/ BACK,
-GLZD434TO,GLZD,System,Saving preferences.,
-GLZD435TO,GLZD,System,Saving AUTOSAVE: POINT OF NO RETURN.,
-GLZD507TO,GLZD,System,Saving game.,
-GLZD560TO,GLZD,System,Please free,
-GLZD561TO,GLZD,System,more space.,
-GLZD573TO,GLZD,System,Why aren't you pressing /AButton/ ???,
-GLZD587TO,GLZD,System,Saving autosave.,
-GLZE005TO,GLZE,System,Use /MovementControls/ to aim your toss.,
-GLZG041TO,GLZG,System,/BButton/ Exit,
-GLZE015TO,GLZE,System,Control speed with /MovementControls/ or use it to change rails when jumping.,
-GLZG018TO,GLZG,System,Use /MovementControls/ or /FullMouse/ to navigate the Journal.,
-GLZJ000TO,GLZJ,System,Press /AButton/ to begin.,
-GLZD288TO,GLZD,System,You have too many items to fit on one page! Use /DPadRight/ to see the rest of your items.,
-GLZD551TO,GLZD,System,/AButton/ Select,
-GLZG036TO,GLZG,System,"Raz has stowed the item in his backpack. To see what's in Raz's backpack, and what merit badges he has, press the /DPadLeft/ button.",
-GLPC000TO,GLPC,System,Move Forward,
-GLPC001TO,GLPC,System,Move Backward,
-GLPC002TO,GLPC,System,Move Left,
-GLPC003TO,GLPC,System,Move Right,
-GLPC004TO,GLPC,System,Jump,
-GLPC005TO,GLPC,System,Attack,
-GLPC006TO,GLPC,System,Use,
-GLPC007TO,GLPC,System,Cancel,
-GLPC008TO,GLPC,System,LockOn/Float,
-GLPC009TO,GLPC,System,PSI Power1,
-GLPC010TO,GLPC,System,PSI Power2,
-GLPC011TO,GLPC,System,PSI Power3,
-GLPC012TO,GLPC,System,Inventory Menu,
-GLPC013TO,GLPC,System,PSI Powers Menu,
-GLPC014TO,GLPC,System,First Person View,
-GLPC015TO,GLPC,System,Journal,
-GLPC016TO,GLPC,System,Stats,
-GLPC017TO,GLPC,System,Look Up,
-GLPC018TO,GLPC,System,Look Down,
-GLPC019TO,GLPC,System,Look Left,
-GLPC020TO,GLPC,System,Look Right,
-GLPC021TO,GLPC,System,Type your nickname. Only letters and numbers allowed.,
-GLPC022TO,GLPC,System,Press /Enter/ when done.,
-GLPC023TO,GLPC,System,Press /Escape/ to cancel.,
-GLZE018TO,GLZE,System,This save game appears to be damaged and cannot be used. Press /AButton/ to continue.,
-GLZE020TO,GLZE,System,This profile appears to be damaged and cannot be used. Press /AButton/ to continue.,
-GLZD556TO,GLZD,System,/AButton/ Zoom in,
-GLZD557TO,GLZD,System,/AButton/ Zoom out,
-GLPC024TO,GLPC,System,Show To-Do list on screen?,
-GLPC025TO,GLPC,System,"While you were away, your game was automatically paused.",
-GLPC026TO,GLPC,System,Ok,
-GLPC028TO,GLPC,System,Defaults,
-GLPC029TO,GLPC,System,Back,
-GLPC030TO,GLPC,System,OPTIONS,
-GLPC031TO,GLPC,System,MAIN MENU,
-GLPC032TO,GLPC,System,EXIT GAME,
-GLPC033TO,GLPC,System,Controls,
-GLPC034TO,GLPC,System,CONTROLS,
-GLPC035TO,GLPC,System,Bindings,
-GLPC036TO,GLPC,System,Action Bindings,
-GLPC037TO,GLPC,System,Advanced,
-GLPC038TO,GLPC,System,Sensitivity,
-GLPC039TO,GLPC,System,Deadzone,
-GLPC040TO,GLPC,System,Camera,
-GLPC041TO,GLPC,System,Camera Settings,
-GLPC042TO,GLPC,System,Invert Camera Horiz.,
-GLPC043TO,GLPC,System,Invert Camera Vert.,
-GLPC044TO,GLPC,System,Invert 1st Person,
-GLPC045TO,GLPC,System,Show Goal Popups,
-GLPC046TO,GLPC,System,Graphics,
-GLPC047TO,GLPC,System,Graphics Options,
-GLPC048TO,GLPC,System,Full Screen,
-GLPC049TO,GLPC,System,V.Sync,
-GLPC050TO,GLPC,System,FSAA,
-GLPC051TO,GLPC,System,FSFX,
-GLPC052TO,GLPC,System,Adv. Shading,
-GLPC053TO,GLPC,System,Shadows,
-GLPC054TO,GLPC,System,Brightness,
-GLPC055TO,GLPC,System,Sound,
-GLPC056TO,GLPC,System,Sound Settings,
-GLPC057TO,GLPC,System,Master Volume,
-GLPC058TO,GLPC,System,FX Volume,
-GLPC059TO,GLPC,System,Music Volume,
-GLPC060TO,GLPC,System,Voice Volume,
-GLPC061TO,GLPC,System,Subtitles,
-GLPC062TO,GLPC,System,Hardware Accel.,
-GLPC063TO,GLPC,System,Advanced Settings,
-GLPC064TO,GLPC,System,Quit To Title,
-GLPC065TO,GLPC,System,"Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!",
-GLPC066TO,GLPC,System,Exit To Desktop,
-GLPC067TO,GLPC,System,Are you sure you want to stop playing Psychonauts?,
-CAZF006TO,CAZF,System,"This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.",
-GLPC068TO,GLPC,System,Lead PC Programmer,
-GLPC069TO,GLPC,System,Changes to hardware acceleration will not take effect until you restart the game.,
-GLPC070TO,GLPC,System,/AButton/ Play again,
-GLPC071TO,GLPC,System,Smart Camera,
-GLPC072TO,GLPC,System,Altitude Dampening,
-GLPC074TO,GLPC,System,Pitch,
-GLPC075TO,GLPC,System,Yaw,
-GLPC076TO,GLPC,System,Horizontal,
-GLPC077TO,GLPC,System,Vertical,
-GLPC078TO,GLPC,System,Horizontal Sensitivity,
-GLPC079TO,GLPC,System,Vertical Sensitivity,
-GLPC080TO,GLPC,System,Left /Joystick/,
-GLPC081TO,GLPC,System,Right /Joystick/,
-GLPC082TO,GLPC,System,/FirstKey/ or /SecondKey/,
+"Identifier","Context","Source string","Translation"
+"GLZA053TO","System","{AButton} Yes.",""
+"GLZA054TO","System","{AButton} No.",""
+"GLZD286TO","System","Use {MovementControls} and then press {BlackButton},  {WhiteButton}, or {RightFlipper} to map the selected power to that button.",""
+"GLZD287TO","System","To pull out an item from your backpack, point to it with {MovementControls} and then press {AButton}. To return it to your backpack later, press {BButton}.",""
+"GLZD351TO","System","Please reconnect the controller to controller port",""
+"GLZD321TO","System","Drag {FullMouse} or use Right {Joystick} TO NAVIGATE.",""
+"GLZD335TO","System","{AButton} LOAD",""
+"GLZD336TO","System","{XButton} DELETE",""
+"GLZD338TO","System","{AButton} SAVE",""
+"GLZD347TO","System","You don't have enough free space to save this profile.
+Press {Abutton} to continue without saving or {Bbutton} to free more space.",""
+"GLZD348TO","System","You don't have enough free space to save games.
+Press {Abutton} to continue without saving or {Bbutton} to free more space.",""
+"GLZD356TO","System","{MovementControls} to SCROLL.",""
+"GLZD358TO","System","{BButton} BACK",""
+"GLZD434TO","System","Saving preferences.",""
+"GLZD435TO","System","Saving AUTOSAVE: POINT OF NO RETURN.",""
+"GLZD507TO","System","Saving game.",""
+"GLZD560TO","System","Please free",""
+"GLZD561TO","System","more space.",""
+"GLZD573TO","System","Why aren't you pressing {AButton} ???",""
+"GLZD587TO","System","Saving autosave.",""
+"GLZE005TO","System","Use {MovementControls} to aim your toss.",""
+"GLZG041TO","System","{BButton} Exit",""
+"GLZE015TO","System","Control speed with {MovementControls} or use it to change rails when jumping.",""
+"GLZG018TO","System","Use {MovementControls} or {FullMouse} to navigate the Journal.",""
+"GLZJ000TO","System","Press {AButton} to begin.",""
+"GLZD288TO","System","You have too many items to fit on one page! Use {DPadRight} to see the rest of your items.",""
+"GLZD551TO","System","{AButton} Select",""
+"GLZG036TO","System","Raz has stowed the item in his backpack. To see what's in Raz's backpack, and what merit badges he has, press the {DPadLeft} button.",""
+"GLPC000TO","System","Move Forward",""
+"GLPC001TO","System","Move Backward",""
+"GLPC002TO","System","Move Left",""
+"GLPC003TO","System","Move Right",""
+"GLPC004TO","System","Jump",""
+"GLPC005TO","System","Attack",""
+"GLPC006TO","System","Use",""
+"GLPC007TO","System","Cancel",""
+"GLPC008TO","System","LockOn/Float",""
+"GLPC009TO","System","PSI Power1",""
+"GLPC010TO","System","PSI Power2",""
+"GLPC011TO","System","PSI Power3",""
+"GLPC012TO","System","Inventory Menu",""
+"GLPC013TO","System","PSI Powers Menu",""
+"GLPC014TO","System","First Person View",""
+"GLPC015TO","System","Journal",""
+"GLPC016TO","System","Stats",""
+"GLPC017TO","System","Look Up",""
+"GLPC018TO","System","Look Down",""
+"GLPC019TO","System","Look Left",""
+"GLPC020TO","System","Look Right",""
+"GLPC021TO","System","Type your nickname. Only letters and numbers allowed.",""
+"GLPC022TO","System","Press {Enter} when done.",""
+"GLPC023TO","System","Press {Escape} to cancel.",""
+"GLZE018TO","System","This save game appears to be damaged and cannot be used. Press {AButton} to continue.",""
+"GLZE020TO","System","This profile appears to be damaged and cannot be used. Press {AButton} to continue.",""
+"GLZD556TO","System","{AButton} Zoom in",""
+"GLZD557TO","System","{AButton} Zoom out",""
+"GLPC024TO","System","Show To-Do list on screen?",""
+"GLPC025TO","System","While you were away, your game was automatically paused.",""
+"GLPC026TO","System","Ok",""
+"GLPC028TO","System","Defaults",""
+"GLPC029TO","System","Back",""
+"GLPC030TO","System","OPTIONS",""
+"GLPC031TO","System","MAIN MENU",""
+"GLPC032TO","System","EXIT GAME",""
+"GLPC033TO","System","Controls",""
+"GLPC034TO","System","CONTROLS",""
+"GLPC035TO","System","Bindings",""
+"GLPC036TO","System","Action Bindings",""
+"GLPC037TO","System","Advanced",""
+"GLPC038TO","System","Sensitivity",""
+"GLPC039TO","System","Deadzone",""
+"GLPC040TO","System","Camera",""
+"GLPC041TO","System","Camera Settings",""
+"GLPC042TO","System","Invert Camera Horiz.",""
+"GLPC043TO","System","Invert Camera Vert.",""
+"GLPC044TO","System","Invert 1st Person",""
+"GLPC045TO","System","Show Goal Popups",""
+"GLPC046TO","System","Graphics",""
+"GLPC047TO","System","Graphics Options",""
+"GLPC048TO","System","Full Screen",""
+"GLPC049TO","System","V.Sync",""
+"GLPC050TO","System","FSAA",""
+"GLPC051TO","System","FSFX",""
+"GLPC052TO","System","Adv. Shading",""
+"GLPC053TO","System","Shadows",""
+"GLPC054TO","System","Brightness",""
+"GLPC055TO","System","Sound",""
+"GLPC056TO","System","Sound Settings",""
+"GLPC057TO","System","Master Volume",""
+"GLPC058TO","System","FX Volume",""
+"GLPC059TO","System","Music Volume",""
+"GLPC060TO","System","Voice Volume",""
+"GLPC061TO","System","Subtitles",""
+"GLPC062TO","System","Hardware Accel.",""
+"GLPC063TO","System","Advanced Settings",""
+"GLPC064TO","System","Quit To Title",""
+"GLPC065TO","System","Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!",""
+"GLPC066TO","System","Exit To Desktop",""
+"GLPC067TO","System","Are you sure you want to stop playing Psychonauts?",""
+"CAZF006TO","System","This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.",""
+"GLPC068TO","System","Lead PC Programmer",""
+"GLPC069TO","System","Changes to hardware acceleration will not take effect until you restart the game.",""
+"GLPC070TO","System","{AButton} Play again",""
+"GLPC071TO","System","Smart Camera",""
+"GLPC072TO","System","Altitude Dampening",""
+"GLPC074TO","System","Pitch",""
+"GLPC075TO","System","Yaw",""
+"GLPC076TO","System","Horizontal",""
+"GLPC077TO","System","Vertical",""
+"GLPC078TO","System","Horizontal Sensitivity",""
+"GLPC079TO","System","Vertical Sensitivity",""
+"GLPC080TO","System","Left {Joystick}",""
+"GLPC081TO","System","Right {Joystick}",""
+"GLPC082TO","System","{FirstKey} or {SecondKey}",""

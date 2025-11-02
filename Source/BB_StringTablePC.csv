@@ -1,7 +1,7 @@
-identifier,labels,context,source,translation
-BBZE009TO,BBZE,System,Shimmy on bar with /MovementControls/,
-BBZE010TO,BBZE,System,Swing on bar with /MovementControls/,
-BBZE011TO,BBZE,System,Use /MovementControls/ to shimmy across ledge.,
-BBZE012TO,BBZE,System,Use /MovementControls/ with /AButton/ to switch rails.,
-BBZF006TO,BBZF,System,Swing or shimmy with /MovementControls/,
-BBZF008TO,BBZF,System,Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.,
+"Identifier","Context","Source string","Translation"
+"BBZE009TO","System","Shimmy on bar with {MovementControls}",""
+"BBZE010TO","System","Swing on bar with {MovementControls}",""
+"BBZE011TO","System","Use {MovementControls} to shimmy across ledge.",""
+"BBZE012TO","System","Use {MovementControls} with {AButton} to switch rails.",""
+"BBZF006TO","System","Swing or shimmy with {MovementControls}",""
+"BBZF008TO","System","Press {RClick} to enter first-person camera mode. Then move the {LookControls} to look around.",""
