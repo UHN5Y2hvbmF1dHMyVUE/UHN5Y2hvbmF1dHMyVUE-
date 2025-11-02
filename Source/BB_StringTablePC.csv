@@ -1,7 +1,7 @@
-identifier,file,character,source,translation
-BBZE009TO,BB_StringTablePC.csv,System,Shimmy on bar with /MovementControls/,
-BBZE010TO,BB_StringTablePC.csv,System,Swing on bar with /MovementControls/,
-BBZE011TO,BB_StringTablePC.csv,System,Use /MovementControls/ to shimmy across ledge.,
-BBZE012TO,BB_StringTablePC.csv,System,Use /MovementControls/ with /AButton/ to switch rails.,
-BBZF006TO,BB_StringTablePC.csv,System,Swing or shimmy with /MovementControls/,
-BBZF008TO,BB_StringTablePC.csv,System,Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.,
+identifier,labels,context,source_phase,translation
+BBZE009TO,BBZE,System,Shimmy on bar with /MovementControls/,
+BBZE010TO,BBZE,System,Swing on bar with /MovementControls/,
+BBZE011TO,BBZE,System,Use /MovementControls/ to shimmy across ledge.,
+BBZE012TO,BBZE,System,Use /MovementControls/ with /AButton/ to switch rails.,
+BBZF006TO,BBZF,System,Swing or shimmy with /MovementControls/,
+BBZF008TO,BBZF,System,Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.,
