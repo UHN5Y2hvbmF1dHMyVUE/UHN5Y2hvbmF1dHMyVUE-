@@ -1,13 +1,13 @@
 "Identifier","Context","Source string","Translation"
-"GLZA053TO","System","{AButton} Yes.","{AButton} Yes."
-"GLZA054TO","System","{AButton} No.","{AButton} No."
+"GLZA053TO","System","{AButton} Yes.","{AButton} Так."
+"GLZA054TO","System","{AButton} No.","{AButton} Ні."
 "GLZD286TO","System","Use {MovementControls} and then press {BlackButton},  {WhiteButton}, or {RightFlipper} to map the selected power to that button.","Use {MovementControls} and then press {BlackButton},  {WhiteButton}, or {RightFlipper} to map the selected power to that button."
 "GLZD287TO","System","To pull out an item from your backpack, point to it with {MovementControls} and then press {AButton}. To return it to your backpack later, press {BButton}.","To pull out an item from your backpack, point to it with {MovementControls} and then press {AButton}. To return it to your backpack later, press {BButton}."
 "GLZD351TO","System","Please reconnect the controller to controller port","Please reconnect the controller to controller port"
 "GLZD321TO","System","Drag {FullMouse} or use Right {Joystick} TO NAVIGATE.","Drag {FullMouse} or use Right {Joystick} TO NAVIGATE."
-"GLZD335TO","System","{AButton} LOAD","{AButton} LOAD"
-"GLZD336TO","System","{XButton} DELETE","{XButton} DELETE"
-"GLZD338TO","System","{AButton} SAVE","{AButton} SAVE"
+"GLZD335TO","System","{AButton} LOAD","{AButton} ЗАВАНТАЖИТИ"
+"GLZD336TO","System","{XButton} DELETE","{XButton} ВИДАЛИТИ"
+"GLZD338TO","System","{AButton} SAVE","{AButton} ЗБЕРЕГТИ"
 "GLZD347TO","System","You don't have enough free space to save this profile.
 Press {Abutton} to continue without saving or {Bbutton} to free more space.","You don't have enough free space to save this profile.
 Press {Abutton} to continue without saving or {Bbutton} to free more space."
