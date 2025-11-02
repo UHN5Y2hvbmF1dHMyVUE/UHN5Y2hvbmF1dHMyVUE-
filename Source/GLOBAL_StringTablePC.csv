@@ -1,4 +1,4 @@
-identifier,labels,context,source_phase,translation
+identifier,labels,context,source,translation
 GLZA053TO,GLZA,System,/AButton/ Yes.,
 GLZA054TO,GLZA,System,/AButton/ No.,
 GLZD286TO,GLZD,System,"Use /MovementControls/ and then press /BlackButton/,  /WhiteButton/, or /RightFlipper/ to map the selected power to that button.",

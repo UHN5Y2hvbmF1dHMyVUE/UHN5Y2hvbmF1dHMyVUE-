@@ -1,4 +1,4 @@
-identifier,labels,context,source_phase,translation
+identifier,labels,context,source,translation
 ASCL001RA,ASCL,Raz,Hey it works!,
 ASCL002RA,ASCL,Raz,"What's up, Linda?",
 ASCL003RA,ASCL,Raz,I don't suppose I could just ride on top this time?,

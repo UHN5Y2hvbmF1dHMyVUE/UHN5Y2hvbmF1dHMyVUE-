@@ -1,4 +1,4 @@
-identifier,labels,context,source_phase,translation
+identifier,labels,context,source,translation
 BBZE009TO,BBZE,System,Shimmy on bar with /MovementControls/,
 BBZE010TO,BBZE,System,Swing on bar with /MovementControls/,
 BBZE011TO,BBZE,System,Use /MovementControls/ to shimmy across ledge.,

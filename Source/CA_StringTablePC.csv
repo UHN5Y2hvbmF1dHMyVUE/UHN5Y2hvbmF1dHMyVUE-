@@ -1,4 +1,4 @@
-identifier,labels,context,source_phase,translation
+identifier,labels,context,source,translation
 CAZE001TO,CAZE,System,Move /LookControls/ to look right.,
 CAZE002TO,CAZE,System,Move /LookControls/ to look up.,
 CAZE005TO,CAZE,System,Move /LookControls/ to look around.,
