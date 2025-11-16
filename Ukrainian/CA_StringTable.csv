@@ -2509,7 +2509,7 @@
 "CALI007RA","Raz","Ya--","Ya--"
 "GLZG041TO","System","{BBUTTON} Exit","{BBUTTON} Вийти"
 "CAZJ000TO","System","CREATE A PROFILE","СТВОРИТИ ПРОФІЛЬ"
-"CAZJ001TO","System","LOAD FROM WHICH PROFILE?","З ЯКОГО ПРОФІЛЮ ЗАВАНТАЖИТИ?"
+"CAZJ001TO","System","LOAD FROM WHICH PROFILE?","ЯКИЙ ПРОФІЛЬ ЗАВАНТАЖИТИ?"
 "CAZJ002TO","System","This bunk belongs to:","Ліжко гравця:"
 "CAZJ003TO","System","This bunk is available","Вільне ліжко"
 "CAZJ004TO","System","{abutton} Select Bunk","{abutton} Обрати ліжко"
