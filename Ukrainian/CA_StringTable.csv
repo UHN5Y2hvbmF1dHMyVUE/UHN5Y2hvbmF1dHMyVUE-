@@ -2512,7 +2512,7 @@
 "CAZJ001TO","System","LOAD FROM WHICH PROFILE?","ЯКИЙ ПРОФІЛЬ ЗАВАНТАЖИТИ?"
 "CAZJ002TO","System","This bunk belongs to:","Ліжко гравця:"
 "CAZJ003TO","System","This bunk is available","Вільне ліжко"
-"CAZJ004TO","System","{abutton} Select Bunk","{abutton} Обрати ліжко"
+"CAZJ004TO","System","{abutton} Select Bunk","{abutton} Вибрати койку"
 "CAZJ005TO","System","{abutton} Overwrite Profile","{abutton} Перезаписати профіль"
 "CAZJ006TO","System","{xbutton} Delete Profile","{xbutton} Видалити профіль"
 "CAZJ007TO","System","Pick Nickname:","Оберіть псевдонім:"
