@@ -3,7 +3,7 @@
 "CAZE002TO","System","Move {LookControls} to look up.","Рухайте {LookControls}, щоб дивитися вгору."
 "CAZE005TO","System","Move {LookControls} to look around.","Рухайте {LookControls}, щоб оглядатися."
 "CAZE010TO","System","Use {MovementControls} to aim your toss.","Використовуйте {MovementControls} для націлювання кидка."
-"CAZE014TO","System","Try hanging and swinging on these wood supports. Use {MovementControls} to swing.  Press {AButton} to jump off.","Try hanging and swinging on these wood supports. Use {MovementControls} to swing.  Press {AButton} to jump off."
+"CAZE014TO","System","Try hanging and swinging on these wood supports. Use {MovementControls} to swing.  Press {AButton} to jump off.","Спробуйте повиснути та розгойдатися на цих дерев'яних опорах. Використовуйте {MovementControls} для гойдання. Натисніть {AButton}, щоб зістрибнути."
 "CAZE021TO","System","Move {MovementControls} to build up momentum on this trapeze, then press {AButton} to jump!","Move {MovementControls} to build up momentum on this trapeze, then press {AButton} to jump!"
 "CAZJ004TO","System","{AButton} Select Bunk","{AButton} Вибрати койку"
 "CAZJ005TO","System","{AButton} Overwrite Profile","{AButton} Перезаписати профіль"
