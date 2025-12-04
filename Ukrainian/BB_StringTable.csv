@@ -302,7 +302,7 @@
 "BBZF000TO","System","Jump and punch to activate button.","Jump and punch to activate button."
 "BBZE015TO","System","Target Course complete! Time :","Target Course complete! Time :"
 "BBZE016TO","System","seconds.","seconds."
-"BBZF001TO","System","To SAVE your progress, press {StartButton} to open your JOURNAL, and on the first page, select SAVE.","To SAVE your progress, press {StartButton} to open your JOURNAL, and on the first page, select SAVE."
+"BBZF001TO","System","To SAVE your progress, press {StartButton} to open your JOURNAL, and on the first page, select SAVE.","Щоб ЗБЕРЕГТИ ваш прогрес, відкрийте журнал, натиснувши {StartButton}, і виберіть ЗБЕРЕГТИ на першій сторінці."
 "BBZF002TO","System","Jump on tightrope to mount.","Jump on tightrope to mount."
 "BBZF003TO","System","Press {AButton} to bounce on tightrope.","Press {AButton} to bounce on tightrope."
 "BBZF004TO","System","Press {BButton} to hang by your hands.","Press {BButton} to hang by your hands."
