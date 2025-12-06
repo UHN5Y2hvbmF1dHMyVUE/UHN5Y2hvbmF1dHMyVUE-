@@ -51,7 +51,7 @@
 "ASBR003BO","Boyd","...the military-industrial complex...",""
 "ASBR004BO","Boyd","...the suits...",""
 "ASBR005BO","Boyd","...the analyticals, man...",""
-"ASBR006BO","Boyd","...those Bermuda Triangle sharks",""
+"ASBR006BO","Boyd","...those Bermuda Triangle sharks…",""
 "ASBR007BO","Boyd","...all them haters...",""
 "ASBR008BO","Boyd","...Hernando...",""
 "ASBR009BO","Boyd","...that little fat kid with the bunny...",""
@@ -75,7 +75,7 @@
 "ASBR027BO","Boyd","...the cows...",""
 "ASBR028BO","Boyd","...foreign toy makers...",""
 "ASBR030BO","Boyd","...the intelligencia...",""
-"ASBR031BO","Boyd","...the fluoride producers",""
+"ASBR031BO","Boyd","...the fluoride producers…",""
 "ASBR032BO","Boyd","...a secret doomsday cult...",""
 "ASBR033BO","Boyd","...the president's brother...",""
 "ASBR034BO","Boyd","...my first cat Seymour...",""
@@ -193,12 +193,12 @@
 "ASBR146BO","Boyd","I wonder if I'm on camera right now. Ha! What, am I crazy? Of course I am!",""
 "ASBR147BO","Boyd","Hi mom! Look at me! I'm tangled in a web of deception! How's uncle G?",""
 "ASBR148BO","Boyd","G-man, who are you working for? Who is G?",""
-"ASBR149BO","Boyd","G-Man, Go-man, Goat Man I thought you worked for me?",""
+"ASBR149BO","Boyd","G-Man, Go-man, Goat Man… I thought you worked for me?",""
 "ASBR150BO","Boyd","My father, he was a good man, but he served a cruel master.",""
 "ASBR151BO","Boyd","Mom, are you sure these are your children?",""
 "ASBR152BO","Boyd","These are not my dot to dots. These are not my babies.",""
 "ASBR153BO","Boyd","...but of course you know all this because you're Australian...",""
-"ASBR154BO","Boyd","...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks",""
+"ASBR154BO","Boyd","...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks…",""
 "ASBR155BO","Boyd","I don't want to be a lead weight on the table.",""
 "ASBR156BO","Boyd","I see myself more as a turtle with a rocket strapped to its back!",""
 "ASBR157BO","Boyd","...and he waits and he waits...",""
@@ -244,7 +244,7 @@
 "ASBR197BO","Boyd","...yeah, yeah, yeah...",""
 "ASBR198BO","Boyd","...what?...",""
 "ASBR199BO","Boyd","...no, no, no, no...",""
-"ASBR200BO","Boyd","...okay, okay, but",""
+"ASBR200BO","Boyd","...okay, okay, but…",""
 "ASBR201BO","Boyd","...huh...",""
 "ASBR202BO","Boyd","...riiiiiiight...",""
 "ASBV001ED","Edgar","...signed... Edgar... Teglee.",""
@@ -267,7 +267,7 @@
 "ASCD012CR","Crispin","Good to see your face!",""
 "ASCD013CR","Crispin","I see you're wearing your favorite jacket!",""
 "ASCD014CR","Crispin","If I may say so, your claw is looking ESPECIALLY menacing today!",""
-"ASCD016CR","Crispin","If you're Doctor Loboto",""
+"ASCD016CR","Crispin","If you're Doctor Loboto…",""
 "ASCD017CR","Crispin","What happened to your face?",""
 "ASCD018CR","Crispin","Where's your strappy jacket?",""
 "ASCD019CR","Crispin","Did you have a human hand reattached to your arm, or...?",""
@@ -277,7 +277,7 @@
 "ASCD023CR","Crispin","Good day.",""
 "ASCD024CR","Crispin","Taking her up yourself this time, eh Doctor? Less work for me!",""
 "ASCD025FR","Fred","Inmate Whytehead.",""
-"ASCD026CR","Crispin","Gahh! Chief Orderly Bonaparte! You're... You're",""
+"ASCD026CR","Crispin","Gahh! Chief Orderly Bonaparte! You're... You're…",""
 "ASCD027FR","Fred","Armed?",""
 "ASCD028CR","Crispin","Woo hoo ha ha hahaha!",""
 "ASCL001RA","Raz","Hey it works!",""
@@ -330,6 +330,7 @@
 "ASET015RA","Raz","Wow! See, sometimes you just have to--",""
 "ASET016RA","Raz","Huh. You painted a bullfight over the Doctor's face. Why a bull fight?",""
 "ASET017RA","Raz","Huh? Huh Edgar? Why do you--",""
+"ASET018ED","Edgar","AAAAAAAAAAahhhhhhhhhh!!!",""
 "ASET019ED","Edgar","EVERY TIME!",""
 "ASET020ED","Edgar","Every time it is the same!",""
 "ASET021ED","Edgar","The matador! The bull! How I despise you both!",""
@@ -462,6 +463,7 @@
 "ASLS014LO","Dr.Loboto","A little turtle soup?",""
 "ASLS015SH","Sheegor","Please, Doctor Loboto. No!",""
 "ASLS016LO","Dr.Loboto","Huh? A nice hot turtle soup, hmm hmm?",""
+"ASLS017SH","Sheegor","NOOOOOOOO!!!",""
 "ASLS018LO","Dr.Loboto","Nothing better on a cold night like this than some boiling hot soup!",""
 "ASLS019SH","Sheegor","Leave Mr. Pokeylope alone!!!",""
 "ASLS020LO","Dr.Loboto","Oh, okay.",""
@@ -487,7 +489,7 @@
 "ASLV003LI","Lili","Grrrr!",""
 "ASLV004LI","Lili","(Gasp!)",""
 "ASLV005LO","Dr.Loboto","Well, I've reviewed your chart, little girl.",""
-"ASLV006LO","Dr.Loboto","And the bad news is, we're gonna have to remove your brain",""
+"ASLV006LO","Dr.Loboto","And the bad news is, we're gonna have to remove your brain…",""
 "ASLV007LO","Dr.Loboto","...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!",""
 "ASLV008LI","Lili","I'm gonna kill you so much.",""
 "ASLV009LO","Dr.Loboto","The good news is that your insurance is going to cover the whole thing, so--",""
@@ -509,7 +511,7 @@
 "ASSP001RA","Raz","Ahhh!",""
 "ASSP002RA","Raz","Super... sneezing... powder.",""
 "ASSP003RA","Raz","Ahh! Try... not... to... sneeze!",""
-"ASSP004RA","Raz","Have... to... hold it... in",""
+"ASSP004RA","Raz","Have... to... hold it... in…",""
 "ASSP005RA","Raz","Ah ah--",""
 "ASSP006RA","Raz","ACHOO!",""
 "ASSP007RA","Raz","TV?",""
@@ -525,7 +527,7 @@
 "ASWV004RA","Raz","Hey, good thinking, Fred! That sure would save me a lot of work.",""
 "ASWV005FR","Fred","Yup! Right after I take a nap!",""
 "ASWV006RA","Raz","Yes, a--what? Nap?",""
-"ASWV007FR","Fred","(Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzz",""
+"ASWV007FR","Fred","(Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzz…",""
 "ASWV008RA","Raz","Oh man.",""
 "ASWV009FR","Fred","(Snore.)",""
 "ASCA000LI","Lili","Finally! If that thing gave me a cowlick, Coach Oleander's gonna burn.",""
@@ -556,7 +558,7 @@
 "ASCA025GL","Gloria","Oh, here's what my poor flowers need! A little water!",""
 "ASCA026ED","Edgar","Oh, no. I spilled all my turpentine and acetone!",""
 "ASCA027FR","Fred","Hey, Boyd. Long time no see!",""
-"ASCA028ED","Edgar","Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight",""
+"ASCA028ED","Edgar","Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight…",""
 "ASCA029FR","Fred","Relax. The asylum's closed. We can all go home.",""
 "ASCA030GL","Gloria","Leave? Here?",""
 "ASCA031FR","Fred","Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!",""
@@ -577,7 +579,7 @@
 "ASCA046CO","Coach","Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?",""
 "ASCA047FO","Ford","Yeah. Gesundheit!",""
 "ASCA048CO","Coach","Heh?",""
-"ASCA049CO","Coach","Ah... ahh... ahhhh AHCHOO!",""
+"ASCA049CO","Coach","Ah... ahh... ahhhh… AHCHOO!",""
 "ASCA050RA","Raz","Hey, that was my fight! I was ready for that one!",""
 "ASCA051SA","Sasha","Always in such a rush, Razputin. It takes years before you're ready for combat of that magnitude.",""
 "ASCA052FO","Ford","You'd be surprised, Nein. This one's been acing all my extra credit exams.  ",""
@@ -602,7 +604,7 @@
 "ASSH011SH","Sheegor","Right???",""
 "ASSH012PL","Mr.Pokeylope","That's right baby. Daddy's here. Everything's gonna be alllll right.",""
 "ASSH013PL","Mr.Pokeylope","Now here's what we're gonna do.",""
-"ASSH014SH","Sheegor","Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm",""
+"ASSH014SH","Sheegor","Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm…",""
 "ASSH015PL","Mr.Pokeylope","(Mutter mutter.)",""
 "ASIF002NP","Napoleon","Sacré bleu! I have been hit!",""
 "ASIG000GL","Gloria","OH!",""
@@ -695,7 +697,7 @@
 "ASAJ000SH","Sheegor","Please don't make him any more angry than he is! Mr. Pokeylope's life is on the line!",""
 "ASAJ001RA","Raz","That was the last time I'll get caught, I promise!",""
 "ASAK000RA","Raz","Listen, the man you're working for is a deranged lunatic!",""
-"ASAK001SH","Sheegor","I know! I hate him, but if I don't do what he says, he'll... he'll",""
+"ASAK001SH","Sheegor","I know! I hate him, but if I don't do what he says, he'll... he'll…",""
 "ASAK002RA","Raz","Cook your little turtle from the inside out.",""
 "ASAK003SH","Sheegor","Gaahhhhh...",""
 "ASAK004RA","Raz","Sheegor, hostage situations like this are always extremely delicate.",""
@@ -757,7 +759,7 @@
 "ASUR004RA","Raz","Well, if I'm going to get to the top of this thing, I'd better start hiking.",""
 "ASPR000SA","Sasha","But Razputin. Recranialization of an adult brain without surgery...",""
 "ASPR001MI","Milla","That's a very advanced procedure. How did you know how to do it?",""
-"ASPR002RA","Raz","Well, I've studied it a little",""
+"ASPR002RA","Raz","Well, I've studied it a little…",""
 "ASPR003RA","Raz","But Sheegor here knows more about handling brains than anyone I've ever met.",""
 "ASPR004SA","Sasha","Really? You know I've been thinking about getting a lab assistant...",""
 "ASPR005MI","Milla","Sheegor, darling, do you know where all of the other children's brains are?",""
@@ -814,11 +816,11 @@
 "ASAS009FR","Fred","I like war! War is fun! Victory is important to me.",""
 "ASAS010NP","Napoleon","No it is not! It is terrible. It is like eating British food every day.",""
 "ASAS011FR","Fred","Oooh, that was weird.",""
-"ASAT000FR","Fred","Zzz Zzz ZzzzzZZ",""
-"ASAT001FR","Fred","ZZZZzzzZZZZzzz",""
-"ASAT002FR","Fred","ZzzZZZZZZz-zzzz",""
+"ASAT000FR","Fred","Zzz Zzz ZzzzzZZ…",""
+"ASAT001FR","Fred","ZZZZzzzZZZZzzz…",""
+"ASAT002FR","Fred","ZzzZZZZZZz-zzzz…",""
 "ASAT003RA","Raz","Hey, Fred.",""
-"ASAT004FR","Fred","Zzzz... What? No. Zzzzz",""
+"ASAT004FR","Fred","Zzzz... What? No. Zzzzz…",""
 "ASAT005RA","Raz","What are you doing sticking around here?",""
 "ASAT006FR","Fred","Well, you know, now that I don't HAVE to play this game anymore...",""
 "ASAT007FR","Fred","I remembered that it was kind of fun!",""
@@ -853,8 +855,8 @@
 "ASAW003ED","Edgar","With all the flammable chemicals I have in here, that would be a disaster.",""
 "ASAW004ED","Edgar","Ah, you try my patience, Razputin!",""
 "ASAW005ED","Edgar","Nobody lifts Edgar Teglee!",""
-"ASAW006ED","Edgar","I uh oh... Who chained this building to my leg?",""
-"ASAW007ED","Edgar","I... really wish I had some pastels... Or water colors",""
+"ASAW006ED","Edgar","I… uh… oh... Who chained this building to my leg?",""
+"ASAW007ED","Edgar","I... really wish I had some pastels... Or water colors…",""
 "ASAX000RA","Raz","Sorry, but did you see a girl--",""
 "ASAX001RA","Raz","So, did you not see a girl come through here?",""
 "ASAX002GL","Gloria","Handsome, I'm not the stage director. I don't track the entrances and exits.",""
