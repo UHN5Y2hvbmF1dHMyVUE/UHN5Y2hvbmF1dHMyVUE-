@@ -116,6 +116,6 @@ Press {Abutton} to continue without saving or {Bbutton} to free more space.","У
 "GLPC077TO","System","Vertical","Вертикаль"
 "GLPC078TO","System","Horizontal Sensitivity","Горизонтальна чутливість"
 "GLPC079TO","System","Vertical Sensitivity","Вертикальна чутливість"
-"GLPC080TO","System","Left {Joystick}","Лівий {Joystick}"
-"GLPC081TO","System","Right {Joystick}","Правий {Joystick}"
+"GLPC080TO","System","Left {Joystick}","лівий {Joystick}"
+"GLPC081TO","System","Right {Joystick}","правий {Joystick}"
 "GLPC082TO","System","{FirstKey} or {SecondKey}","{FirstKey} або {SecondKey}"
