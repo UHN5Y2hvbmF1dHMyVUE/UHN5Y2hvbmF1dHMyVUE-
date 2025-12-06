@@ -15,9 +15,9 @@ Press {Abutton} to continue without saving or {Bbutton} to free more space.","У
 Press {Abutton} to continue without saving or {Bbutton} to free more space.","У вас недостатньо вільного місця для збереження ігор.
 Натисніть {Abutton} для продовження без збереження, або {Bbutton} для звільнення місця."
 "GLZD356TO","System","{MovementControls} to SCROLL.","{MovementControls} для ПРОКРУЧУВАННЯ."
-"GLZD332TO","System","CONTROLLER",""
+"GLZD332TO","System","CONTROLLER","КОНТРОЛЕР"
 "GLZD358TO","System","{BButton} BACK","{BButton} НАЗАД"
-"GLZD434TO","System","Saving preferences.","Збереження налаштувань."
+"GLZD434TO","System","Saving preferences.","Збереження вподобань."
 "GLZD435TO","System","Saving AUTOSAVE: POINT OF NO RETURN.","Триває АВТОЗБЕРЕЖЕННЯ: ТОЧКА НЕПОВЕРНЕННЯ."
 "GLZD507TO","System","Saving game.","Збереження гри."
 "GLZD560TO","System","Please free","Звільніть"
