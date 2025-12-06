@@ -97,8 +97,8 @@
 "LOZI036Z1","Zealots-1","Meet us at the dam, Goggalor. FOR FREEDOM!",""
 "LOZM003Z1","Zealots-1","Goggalor, come in! We have commandeered these vessels in your name!",""
 "LOZM004Z2","Zealots-2","We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!",""
-"LOZM005Z1","Zealots-1","The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh",""
-"LOZM006Z2","Zealots-2","Er, we just think it best, uh... to... er uh",""
+"LOZM005Z1","Zealots-1","The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh…",""
+"LOZM006Z2","Zealots-2","Er, we just think it best, uh... to... er… uh…",""
 "LOZM007Z1","Zealots-1","We've decided to maintain our position out here.",""
 "LOZM008Z2","Zealots-2","Just until you clear the area of all hostiles.",""
 "LOZM009Z1","Zealots-1","Yes.",""
@@ -125,6 +125,7 @@
 "LOAF003CO","Coach","No way! I hate Goggalor! I can't imagine any one of my fans siding with the monster. He hates everything Lungfish care about--",""
 "LOAF004CO","Coach","Air, water, family, the economy...",""
 "LOAF005CO","Coach","Buddy, you'll be happy to know that the Navy has decided to pull out what they're most famous for: ",""
+"LOAF006CO","Coach","AIRPLANES.",""
 "LOAF007CO","Coach","So, rest assured, we can all look forward to Goggalor's imminent death, and to seeing you, Buddy, every Thursday night at eight, right here on LBC!",""
 "LOAF008CO","Coach","Thanks, and I'd just like to add that if anyone kidnaps a human child they should take them quickly under the lake to the abandoned insane asylum.",""
 "LOZJ004TO","System","The End is Nigh",""
@@ -165,7 +166,7 @@
 "LOAI023Z4","Zealots-4","Yes, it's called ""Turn in Goggalor for Reward Money.""",""
 "LOAI024RA","Raz","Hey, you guys still in there? It's Goggalor!",""
 "LOAI025Z4","Zealots-4","Oh, this guy. Just ignore him. He'll go away. ",""
-"LOZN000Z1","Zealots-1","The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor we... uh",""
+"LOZN000Z1","Zealots-1","The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor… we... uh…",""
 "LOAJ000CO","Coach","Give up while you can, Goggalor!",""
 "LOAJ001RA","Raz","I know it's you in there, Coach! I don't know where you're broadcasting from, but I'm going to find out and make you show me what happened to Lili.",""
 "LOAJ002CO","Coach","Kochamara does not speak giant monster boy language.",""
@@ -175,7 +176,7 @@
 "LOAJ006CO","Coach","Deeeeeeaaaadlyyyyyyyyy...",""
 "LOAJ007CO","Coach","TRIANGLE BEAM!",""
 "LOAJ008CO","Coach","Hmm. So Sasha's showed you how to save up your aggressive energy, huh?",""
-"LOAJ009CO","Coach","Well, why don't I help you",""
+"LOAJ009CO","Coach","Well, why don't I help you…",""
 "LOAJ010CO","Coach","Let it all out!",""
 "LOAJ011CO","Coach","Bwah ha ha!",""
 "LOAJ012CO","Coach","Whaddya going to do now, eh?",""
@@ -188,8 +189,9 @@
 "LOAJ019CO","Coach","GROUND VERSION!",""
 "LOAJ020CO","Coach","Speeeeee-deeeeeee...",""
 "LOAJ021CO","Coach","KICK!",""
-"LOAJ022CO","Coach","Ooooverrrrrlyyyyy Innnnn-triiiiii-cate",""
-"LOAJ024CO","Coach","Haaaarrrrrrd tooooo aaaaavoooid",""
+"LOAJ022CO","Coach","Ooooverrrrrlyyyyy Innnnn-triiiiii-cate…",""
+"LOAJ023CO","Coach","COMBINATION!",""
+"LOAJ024CO","Coach","Haaaarrrrrrd tooooo aaaaavoooid…",""
 "LOAJ025CO","Coach","...aaaaavoooid...",""
 "LOAJ026CO","Coach","AREA ATTACK!",""
 "LOAJ027CO","Coach","Woooooo-hoooooo!",""
@@ -243,4 +245,5 @@
 "LOZE000TO","System","{YButton} Throw Tank.",""
 "LOUC001LC","Lungfish-Citizen","Hey everyone, here comes Kochamara!",""
 "LOZF001TO","System","Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.",""
+"LOZZ000TO","System","LUNGFISHOPOLIS LIVE",""
 "LOAO000RA","Raz","Excellent. There it is.",""
