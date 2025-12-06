@@ -1020,7 +1020,7 @@
 "GLZD337TO","System","SAVE GAME","ЗБЕРЕГТИ ГРУ"
 "GLZD338TO","System","{abutton} SAVE","{abutton} ЗБЕРЕГТИ"
 "GLZD339TO","System","All current game data will be lost. Do you want to EXIT this game?","Усі дані незбереженої гри буде втрачено. Бажаєте ВИЙТИ з цієї гри?"
-"GLZD340TO","System","Overwrite Profile?",""
+"GLZD340TO","System","Overwrite Profile?","Перезаписати профіль?"
 "GLZD341TO","System","File is corrupted. Delete?",""
 "GLZD342TO","System","Autosave game cannot be deleted.",""
 "GLZD343TO","System","Delete saved game? All saved data will be lost.",""
