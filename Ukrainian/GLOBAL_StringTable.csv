@@ -722,7 +722,7 @@
 "GLZE003TO","System","Hold down {BlackButton} while facing target.",""
 "GLZE004TO","System","Release {BlackButton} to throw.",""
 "GLZE005TO","System","Use {Joystick} to aim your toss.",""
-"GLZE006TO","System","You just collected enough PSI Cards to make another PSI Challenge Marker!",""
+"GLZE006TO","System","You just collected enough PSI Cards to make another PSI Challenge Marker!","Ви зібрали достатньо псикарт, щоб зробити псимаркер!"
 "GLZF000TO","System","Punch vault to open.","Ударте по сейфу, щоб відкрити його."
 "GLZG000TO","System","Raz is holding an object in his hand. To use a handheld object with someone, walk up to them and press {YButton}","Раз тримає в руках предмет. Щоб застосувати цей об'єкт на комусь, підійдіть до них і натисніть {YButton}"
 "GLZG001TO","System","You just found a PSI Challenge Marker! Every time you find one of these, your PSI Cadet Rank goes up! Rank up enough and you'll get new PSI powers!","Ви щойно знайшли ПСИМАРКЕР! За кожен з них ваш ранг псикадета зростає! Продовжуйте його підіймати та отримаєте нові ПСИЗДІБНОСТІ!"
