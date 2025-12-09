@@ -295,7 +295,7 @@
 "MIZE007TO","System","Respawn kickout activated! If you miss a jump, return here!",""
 "MIZE010TO","System","Best Time:",""
 "MIZE011TO","System","Your Time:",""
-"MIZB000TO","System","Levitation Learner's Permit",""
+"MIZB000TO","System","Levitation Learner's Permit","Дозвіл на навчання левітації"
 "MIZE012TO","System","Press {BlackButton} to Levitate.",""
 "MIZE013TO","System","Press {RightFlipper} to Levitate.",""
 "MIZE014TO","System","Reset race",""
