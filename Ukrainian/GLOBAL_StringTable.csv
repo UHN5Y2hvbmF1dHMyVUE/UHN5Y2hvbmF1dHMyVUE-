@@ -1024,7 +1024,7 @@
 "GLZD341TO","System","File is corrupted. Delete?",""
 "GLZD342TO","System","Autosave game cannot be deleted.",""
 "GLZD343TO","System","Delete saved game? All saved data will be lost.",""
-"GLZD344TO","System","All current game data will be lost. Do you want to Load this game?",""
+"GLZD344TO","System","All current game data will be lost. Do you want to Load this game?","Усі дані незбереженої гри буде втрачено. Бажаєте завантажити цю гру?"
 "GLZD346TO","System","Overwrite Saved Game?","Перезаписати збереження?"
 "GLZD347TO","System","Your Xbox doesn't have enough free blocks to save this profile.
 Press {Abutton} to continue without saving or {Bbutton} to free more blocks.",""
