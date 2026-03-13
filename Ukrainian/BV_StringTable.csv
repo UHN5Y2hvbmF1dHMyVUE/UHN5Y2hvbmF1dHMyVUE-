@@ -705,7 +705,7 @@
 "BVZG001TO","System","Wanna hang a painting?  Face the hook and press {YButton} to activate.",""
 "BVZG002TO","System","Put the painting in your knapsack for later use, press {BButton}",""
 "BVZG003TO","System","To select this item later, press {DPadDown}, select the item, then press {AButton}",""
-"BVZG004TO","System","Telekinesis can reach objects that are just beyond reach.  Press {BlackButton} to activate it.",""
+"BVZG004TO","System","Telekinesis can reach objects that are just beyond reach.  Press {BlackButton} to activate it.","Телекінез дозволяє діставати обʼєкти, які знаходяться трохи поза межами. Натисніть {BlackButton}, щоб активувати його."
 "BVZG005TO","System","Lock on to any enemy by holding {LeftFlipper}.  While locked, dodge attacks by pressing jump {AButton} and a direction.",""
 "BVZG006TO","System","The shield power can protect you against the most devilish attacks.",""
 "BVZA030TO","System","Why don't you guys just make a run for it?",""
