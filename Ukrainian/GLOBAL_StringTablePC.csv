@@ -1,7 +1,7 @@
 "Identifier","Context","Source string","Translation"
 "GLZA053TO","System","{AButton} Yes.","{AButton} Так."
 "GLZA054TO","System","{AButton} No.","{AButton} Ні."
-"GLZD286TO","System","Use {MovementControls} and then press {BlackButton},  {WhiteButton}, or {RightFlipper} to map the selected power to that button.","Використовуйте {MovementControls}, а тоді натисніть {BlackButton},  {WhiteButton}, або {RightFlipper}, щоб прив’язати вибрану здібність до цієї кнопки."
+"GLZD286TO","System","Use {MovementControls} and then press {BlackButton},  {WhiteButton}, or {RightFlipper} to map the selected power to that button.","Використовуйте {MovementControls}, а тоді натисніть {BlackButton},  {WhiteButton}, або {RightFlipper}, щоб прив'язати вибрану здібність до цієї кнопки."
 "GLZD287TO","System","To pull out an item from your backpack, point to it with {MovementControls} and then press {AButton}. To return it to your backpack later, press {BButton}.","Щоб витягнути предмет з рюкзака, виберіть його за допомогою {MovementControls}, а тоді натисніть {AButton}. Щоб повернути його назад у рюкзак, натисніть {BButton}."
 "GLZD351TO","System","Please reconnect the controller to controller port","Підключіть контролер до порту контролера знову."
 "GLZD321TO","System","Drag {FullMouse} or use Right {Joystick} TO NAVIGATE.","{FullMouse} або ПРАВИЙ {Joystick} ДЛЯ НАВІГАЦІЇ."
