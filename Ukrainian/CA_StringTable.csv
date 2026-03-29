@@ -2516,7 +2516,7 @@
 "CALI005RA","Raz","You haven't been eating algae again, have you?",""
 "CALI006LF","Linda","Prepare yourself for passage, human child.",""
 "CALI007RA","Raz","Ya--",""
-"GLZG041TO","System","{BBUTTON} Exit","{BBUTTON} Вийти"
+"GLZG041TO","System","{BBUTTON} Exit","{BBUTTON} ВИЙТИ"
 "CAZJ000TO","System","CREATE A PROFILE","СТВОРИТИ ПРОФІЛЬ"
 "CAZJ001TO","System","LOAD FROM WHICH PROFILE?","ЯКИЙ ПРОФІЛЬ ЗАВАНТАЖИТИ?"
 "CAZJ002TO","System","This bunk belongs to:","Койка гравця:"
