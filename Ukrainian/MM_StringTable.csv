@@ -704,6 +704,6 @@
 "MMZF000TO","System","Sometimes you can use CLAIRVOYANCE on an object to see from the point of view of the owner. Just hold the item in your hand and use the CLAIRVOYANCE power. Items that have strong clairvoyance reaction will appear with a special aura in your inventory, like this: {ClairvoyanceEye}","Іноді ви можете застосувати ЯСНОБАЧЕННЯ на об'єкт, щоб побачити світ очима його власника. Просто візьміть предмет у руку та застосуйте ЯСНОБАЧЕННЯ. Предмети із сильною реакцією яснобачення матимуть ось таку позначку у вашому інвентарі: {ClairvoyanceEye}"
 "MMZB010TO","System","Helicopter Helmet","Шолом пілота"
 "MMZJ000TO","System","Try using Clairvoyance on Boyd",""
-"MMZZ000TO","System","DEAD!",""
+"MMZZ000TO","System","DEAD!","МЕРТВИЙ!"
 "MMAV000RA","Raz","Seen any suspicious characters around here lately?","Бачили тут якихось підозрілих персонажів?"
-"MMZZ001TO","System","Cemetery",""
+"MMZZ001TO","System","Cemetery","Цвинтар"
