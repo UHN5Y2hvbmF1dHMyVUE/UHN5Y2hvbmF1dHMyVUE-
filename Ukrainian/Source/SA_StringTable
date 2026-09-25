@@ -12,9 +12,9 @@
 "SAIN007RA","Raz","As therapy?","В якості терапії?"
 "SAIN008SA","Sasha","No, as firepower!","Ні, вогневої міці!"
 "SAIN009SA","Sasha","Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.","Уяви ситуацію: на тебе вистрибує щось мерзенне. Настільки жахливе, що воно просто не має права на існування."
-"SAIN010SA","Sasha","Ahhh, oh, so tacky... I can't... look... directly at it!",""
-"SAIN011SA","Sasha","But I control those feelings, focus them, concentrate, and",""
-"SAIN012SA","Sasha","release!",""
+"SAIN010SA","Sasha","Ahhh, oh, so tacky... I… can't... look... directly at it!","А-а-ах, ох, яка бридота... Не... можу... дивитися!"
+"SAIN011SA","Sasha","But I control those feelings, focus them, concentrate, and…","Але я контролюю ці почуття, фокусую їх, концентрую, і..."
+"SAIN012SA","Sasha","…release!","Вивільняю!"
 "SAIN013SA","Sasha","And the world is a better place.","І одразу стало легше жити."
 "SAIN014SA","Sasha","Your turn.","Твоя черга."
 "SAIN015RA","Raz","Okay...","Гаразд..."
@@ -32,7 +32,7 @@
 "SAMC005RA","Raz","Yes. One's thoughts must be 100% controlled at all times!","Так. Ми маємо контролювати всі наші думки безперестанку!"
 "SAMC006SA","Sasha","Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.","Ну, ні. Коли ти намагаєшся повністю придушити всі небажані почуття, вони накопичуватимуться й зрештою луснуть."
 "SAMC007RA","Raz","Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?","Ось як. А що буде якщо, скажімо, заткнути всі щілини, з яких пруть цензори?"
-"SAMC008SA","Sasha","Well, there would be a buildup of censor energy within, that would... uh eventually",""
+"SAMC008SA","Sasha","Well, there would be a buildup of censor energy within, that would... uh… eventually…","Що ж, всередині утвориться скупчення енергії цензорів, і це призведе... е-е… до…"
 "SAMC009SA","Sasha","Run, Razputin. Very fast.","Тікай, Разпутіне. Швидше."
 "SAMC010SA","Sasha","You are my own creation. I command you to stop!","Ти — моє власне творіння. Я наказую зупинитись!"
 "SAMC012SA","Sasha","Ahhhhhhh!","А-а-а-а-а-а!"
