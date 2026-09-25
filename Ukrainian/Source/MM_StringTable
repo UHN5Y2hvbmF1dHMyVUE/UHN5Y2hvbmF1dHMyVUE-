@@ -4,7 +4,7 @@
 "ASBR003BO","Boyd","...the military-industrial complex...","Оборонно-промисловий комплекс..."
 "ASBR004BO","Boyd","...the suits...","Люди в костюмах..."
 "ASBR005BO","Boyd","...the analyticals, man...","Аналітики, хай їм грець..."
-"ASBR006BO","Boyd","...those Bermuda Triangle sharks",""
+"ASBR006BO","Boyd","...those Bermuda Triangle sharks…","Акули з Бермудського трикутника..."
 "ASBR007BO","Boyd","...all them haters...","Усі ті мізантропи..."
 "ASBR008BO","Boyd","...Hernando...","Ернандо..."
 "ASBR009BO","Boyd","...that little fat kid with the bunny...","Той товстунчик із кроликом..."
@@ -28,7 +28,7 @@
 "ASBR027BO","Boyd","...the cows...","Корови..."
 "ASBR028BO","Boyd","...foreign toy makers...","Іноземні виробники іграшок..."
 "ASBR030BO","Boyd","...the intelligencia...","Інтелігенція..."
-"ASBR031BO","Boyd","...the fluoride producers",""
+"ASBR031BO","Boyd","...the fluoride producers…","Виробники фториду..."
 "ASBR032BO","Boyd","...a secret doomsday cult...","Секретний культ судного дня..."
 "ASBR033BO","Boyd","...the president's brother...","Брат президента..."
 "ASBR034BO","Boyd","...my first cat Seymour...","Мій перший кіт Сеймур..."
@@ -146,12 +146,12 @@
 "ASBR146BO","Boyd","I wonder if I'm on camera right now. Ha! What, am I crazy? Of course I am!","Цікаво, чи знімають мене зараз. Ха! Я що, геть здурів? Звісно знімають!"
 "ASBR147BO","Boyd","Hi mom! Look at me! I'm tangled in a web of deception! How's uncle G?","Привіт, мамо! Диви на мене! Я заплутався в павутину брехні! Як там дядько?"
 "ASBR148BO","Boyd","G-man, who are you working for? Who is G?","На кого ти працюєш, агенте? На дядю?"
-"ASBR149BO","Boyd","G-Man, Go-man, Goat Man I thought you worked for me?",""
+"ASBR149BO","Boyd","G-Man, Go-man, Goat Man… I thought you worked for me?","Агент, мент, президент... я думав, що ми заодно!"
 "ASBR150BO","Boyd","My father, he was a good man, but he served a cruel master.","Мій батько хоч і був хорошою людиною, але служив жорстокій верхівці."
 "ASBR151BO","Boyd","Mom, are you sure these are your children?","Мамо, а ти певна, що це твої діти?"
 "ASBR152BO","Boyd","These are not my dot to dots. These are not my babies.","Це не моя дітвора. Точно не моя."
 "ASBR153BO","Boyd","...but of course you know all this because you're Australian...","Але ти це й так знаєш, ти ж австралієць..."
-"ASBR154BO","Boyd","...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks",""
+"ASBR154BO","Boyd","...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks…","А потім вона з'являється з тих дротів і лізе мені прямо в голову цими радіохвилями..."
 "ASBR155BO","Boyd","I don't want to be a lead weight on the table.","Не хочу бути свинцевим вантажем на столі."
 "ASBR156BO","Boyd","I see myself more as a turtle with a rocket strapped to its back!","Я себе бачу більше як черепаха з приклеєною на спині ракетою!"
 "ASBR157BO","Boyd","...and he waits and he waits...","А він все чекає й чекає..."
@@ -197,13 +197,13 @@
 "ASBR197BO","Boyd","...yeah, yeah, yeah...","Так, так, так..."
 "ASBR198BO","Boyd","...what?...","Що?"
 "ASBR199BO","Boyd","...no, no, no, no...","Ні-ні-ні-ні..."
-"ASBR200BO","Boyd","...okay, okay, but",""
+"ASBR200BO","Boyd","...okay, okay, but…","Добре, добре, але…"
 "ASBR201BO","Boyd","...huh...","Га..."
 "ASBR202BO","Boyd","...riiiiiiight...","Зві-і-існо..."
 "MMDD001DM","Den-Mother","What have you done?","Що ж ти накоїв?"
 "MMDD002DM","Den-Mother","He wakes!","Він пробуджується!"
 "MMDD003BO","Boyd","I am the Milkman. My milk is delicious.","Я — молочник. У мене смачне молоко."
-"MMDD004DM","Den-Mother","And the sea shall run white (cough cough) with his rage",""
+"MMDD004DM","Den-Mother","And the sea shall run white (cough cough) with his rage…","І вийдуть білі ріки з берегів (кашляє) від його люті…"
 "MMDD005RS","Rainbow-Squirt","Ooooh ohhhh.","О-о-ох о-ох."
 "MMDD007BO","Boyd","Special delivery today.","Спецдоставку замовляли?"
 "MMDD008BO","Boyd","GRAAAAAA!","РА-А-А-А-А!"
@@ -226,6 +226,7 @@
 "MMDM010DM","Den-Mother","You brought them here!","Ти привів їх сюди!"
 "MMDM011RS","Rainbow-Squirt","To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.","Знищити всіх, хто зашкодить молочнику, або погрозить розкрити його таємну мету."
 "MMDM012DM","Den-Mother","Go girls! Protect the milk!","Нумо, дівчатка! На захист молока!"
+"MMDM013RS","Rainbow-Squirt","AAAAAIIIIIIIIEEEEEEEE!!!","А-А-А-А-А-А-А-А-А-А-А!!!"
 "MMDM014DM","Den-Mother","Do not follow! The milk is not ready, and you are not ready for the milk!","Не йди за мною! Молоко не готове, і ти не готовий до нього!"
 "MMDS001DM","Den-Mother","Hi-ya!","Хі-я!"
 "MMDS002DM","Den-Mother","Haaa!","Ха-а-а!"
@@ -237,7 +238,7 @@
 "MMDS012DM","Den-Mother","To Protect the Milkman at all Costs.","Захищати молочника за будь-яку ціну."
 "MMTW002BO","Boyd","Must make... final... delivery.","Мушу закінчити... останню... доставку."
 "MMTW003BO","Boyd","My milk... is... delicious.","У мене... смачне... молоко."
-"MMTW004BO","Boyd","People... gotta... have their milk.",""
+"MMTW004BO","Boyd","People... gotta... have… their… milk.","Люди... смакуватимуть... молоко."
 "MMTW005BO","Boyd","Milk will get warm. Milk is a drink best served cold!","Скоріше, молоко нагрівається. Молоко — це блюдо, яке краще подавати холодним!"
 "MMTW006BO","Boyd","Rrrrr!","Р-р-р!"
 "MMTW007BO","Boyd","Grrrr!","Гр-р-р!"
@@ -558,7 +559,7 @@
 "MMAL047GM","G-Man","What is the mission of the Crow?","Яка ціль у ворони?"
 "MMAM000RS","Rainbow-Squirt","Ow! I'm only trying to make money for our organization, sir!","Ай! Пане, я ж просто намагаюся заробити гроші для нашої організації!"
 "MMAM001RS","Rainbow-Squirt","Let me down or I'll scream for the police!","Опусти мене, інакше я покличу поліцію!"
-"MMAM002RS","Rainbow-Squirt","Ohhhhh Ohhhhhhhh... Ohhhhhh",""
+"MMAM002RS","Rainbow-Squirt","Ohhhhh… Ohhhhhhhh... Ohhhhhh…","Ох-х-х… Ох-х-х… Ох-х-х…"
 "MMAM003RS","Rainbow-Squirt","Ahhhh! I'm on fire! Owwwwwww!","А-х-х-х! Я палаю! А-а-а-ай-й-й!"
 "MMAM004RS","Rainbow-Squirt","That's nice... creep.","Прикольно... страшило."
 "MMAM005RS","Rainbow-Squirt","Hee hee hee!","Хі-хі-хі!"
@@ -622,7 +623,7 @@
 "MMAP028DM","Den-Mother","How can he see in the dark?","Як він бачить у темряві?"
 "MMAP029RA","Raz","Hey, how about your Milkman friend just opens the gates to the asylum for me, then he could crawl right back in the fridge afterwards!","Слухай, може вмовиш свого приятеля-молочника відчинити ворота лікарні, а потім він залізе назад у той холодильник!"
 "MMAP030DM","Den-Mother","When he wakes there will be no afterwards!","Коли він прокинеться, вже не буде жодних «потім»!"
-"MMAP031DM","Den-Mother","Ohhhh... oh",""
+"MMAP031DM","Den-Mother","Ohhhh... oh…","О-о-ох... ох..."
 "MMAP032DM","Den-Mother","I know you're in here somewhere!","Я знаю, що ти десь тут!"
 "MMAP033DM","Den-Mother","Ha ha ha! Nice try!","Ха-ха-ха! Непогана спроба!"
 "MMAP034RA","Raz","I bought you these as a peace offering!","Я купив їх тобі в знак миру!"
