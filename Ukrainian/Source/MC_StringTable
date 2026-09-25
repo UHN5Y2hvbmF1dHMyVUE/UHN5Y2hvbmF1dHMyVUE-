@@ -18,6 +18,7 @@
 "MCBI011RA","Raz","Your dad... the butcher?","Твій тато... м'ясник?"
 "MCBI012OL","Oly","He says little bunnies are good for nothing.","Він каже, що кролики ні на що не годяться."
 "MCBI013OL","Oly","Nothing but food!","Ні на що, крім їжі!"
+"MCBI014BU","Butcher","HEEEEEEEEERE LITTLE BUNNIES!","СЮ-Ю-Ю-ЮДИ-И-И, КРОЛЯТА-А-А!"
 "MCBI015OL","Oly","Ahhhhhhhhhhhh!","А-а-а-а-а-а-а-а-а-а!"
 "MCBI016BU","Butcher","DON'T RUN OR ELSE DADDY'S GONNA KILL YA!!!","НЕ ТІКАЙТЕ, ІНАКШЕ ТАТКО ВАС ВБ'Є!!!"
 "MCAE000BU","Butcher","Here bunny, bunny, bunny!","Сюди, кроля, кроля, кроля!"
@@ -55,7 +56,7 @@
 "MCAM002RA","Raz","No, I used the acrobatics you taught me!","Ні, я показав акробатику, якій у тебе навчився!"
 "MCAM011BU","Butcher","Make that GROUND. Ha ha ha.","А краще В ЗЕМЛЮ. Ха-ха-ха."
 "MCAN000GD","Augustus","Razputin...","Разпутіне..."
-"MCFU003GD","Augustus","What is your brain doing out here in this tank with this other brain?",""
+"MCFU003GD","Augustus","What is your brain doing out here in this tank with this… other brain?","Що твій мозок робить у танку з... іншим мозком?"
 "MCFU004GD","Augustus","And who are all these unconscious people? ","І хто всі ці непритомні люди?"
 "MCFU005GD","Augustus","What have you gotten yourself involved with?","У що ти вже вляпався?"
 "MCFU007GD","Augustus","Is that really...","Я правда..."
@@ -67,7 +68,7 @@
 "MCFU017GD","Augustus","Now, son, we have to carefully unweave your psyche from that other brain.","А тепер, синку, нам треба обережно відокремити твою психіку від іншого мозку."
 "MCFU018GD","Augustus","We don't want anything bad to happen while your mind is in this tangled state. The damage could be permanent.","У такому переплутаному стані, будь-яка завдана шкода може стати непоправною."
 "MCFU020BU","Butcher","NEVER!","НІЗАЩО!"
-"MCFU022BU","Butcher","And I think I can juggle now!",""
+"MCFU022BU","Butcher","And I think I can… juggle now!","А я, здається... навчився жонглювати!"
 "MCFU023EV","Evil","Heh heh heh!","Хе-хе-хе!"
 "MCFU025GD","Augustus","This is your mind, so YOU are the strong one here.","Це твій розум, отже сильніший тут ТИ."
 "MCFU026GD","Augustus","What I'm about to give you, my son--you must take care of it. Because it's everything I've got.","Зараз я тобі дещо дам, синку. Користуйся цим з умом, бо це все, що в мене є."
